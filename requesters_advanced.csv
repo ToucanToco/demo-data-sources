@@ -1,0 +1,9 @@
+country,zone,date,date_group,value
+France,Europe,January,month,432
+UK,Europe,January,month,426
+USA,America,January,month,310
+Mexico,America,January,month,226
+France,Europe,Q1,Quarter,305
+UK,Europe,Q1,Quarter,274
+USA,America,Q1,Quarter,288
+Mexico,America,Q1,Quarter,450

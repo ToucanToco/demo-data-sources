@@ -1,0 +1,86 @@
+breakdown,catégorie,fréquence,part,clients,pays,domain
+Par territoire,09/2018,plusieurs fois/an,39,47,France,market-breakdown
+Par territoire,01/2018,plusieurs fois/an,45,896,France,market-breakdown
+Par territoire,02/2018,plusieurs fois/an,50,1242,France,market-breakdown
+Par territoire,03/2018,plusieurs fois/an,49,131,France,market-breakdown
+Par territoire,05/2018,plusieurs fois/an,43,160,France,market-breakdown
+Par territoire,04/2018,plusieurs fois/an,51,110,France,market-breakdown
+Par territoire,06/2018,plusieurs fois/an,37,103,France,market-breakdown
+Par territoire,07/2018,plusieurs fois/an,47,181,France,market-breakdown
+Par territoire,08/2018,plusieurs fois/an,44,153,France,market-breakdown
+Par age,10/2018,plusieurs fois/an,45,896,France,market-breakdown
+Par age,11/2018,plusieurs fois/an,50,1242,France,market-breakdown
+Par age,12/2018,plusieurs fois/an,28,37,France,market-breakdown
+Par age,01/2019,plusieurs fois/an,41,239,France,market-breakdown
+Par age,02/2019,plusieurs fois/an,39,44,France,market-breakdown
+Par age,03/2019,plusieurs fois/an,46,232,France,market-breakdown
+Par age,04/2019,plusieurs fois/an,54,241,France,market-breakdown
+Par territoire,04/2018,1 fois/an,28,110,France,market-breakdown
+Par age,05/2019,plusieurs fois/an,61,103,France,market-breakdown
+Par territoire,01/2018,1 fois/an,35,896,France,market-breakdown
+Par territoire,02/2018,1 fois/an,28,1242,France,market-breakdown
+Par territoire,03/2018,1 fois/an,32,131,France,market-breakdown
+Par territoire,05/2018,1 fois/an,35,160,France,market-breakdown
+Par territoire,06/2018,1 fois/an,45,103,France,market-breakdown
+Par territoire,07/2018,1 fois/an,35,181,France,market-breakdown
+Par territoire,08/2018,1 fois/an,33,153,France,market-breakdown
+Par territoire,09/2018,1 fois/an,37,47,France,market-breakdown
+Par age,10/2018,1 fois/an,35,896,France,market-breakdown
+Par age,11/2018,1 fois/an,28,1242,France,market-breakdown
+Par age,12/2018,1 fois/an,41,37,France,market-breakdown
+Par age,01/2019,1 fois/an,39,239,France,market-breakdown
+Par age,02/2019,1 fois/an,33,44,France,market-breakdown
+Par age,03/2019,1 fois/an,32,232,France,market-breakdown
+Par age,04/2019,1 fois/an,32,241,France,market-breakdown
+Par age,05/2019,1 fois/an,26,103,France,market-breakdown
+Par territoire,01/2018,moins souvent,10,896,France,market-breakdown
+Par territoire,02/2018,moins souvent,10,1242,France,market-breakdown
+Par territoire,03/2018,moins souvent,12,131,France,market-breakdown
+Par territoire,04/2018,moins souvent,11,110,France,market-breakdown
+Par territoire,05/2018,moins souvent,9,160,France,market-breakdown
+Par territoire,06/2018,moins souvent,12,103,France,market-breakdown
+Par territoire,07/2018,moins souvent,9,181,France,market-breakdown
+Par territoire,08/2018,moins souvent,11,153,France,market-breakdown
+Par territoire,09/2018,moins souvent,3,47,France,market-breakdown
+Par age,10/2018,moins souvent,10,896,France,market-breakdown
+Par age,11/2018,moins souvent,10,1242,France,market-breakdown
+Par age,12/2018,moins souvent,23,37,France,market-breakdown
+Par age,01/2019,moins souvent,9,239,France,market-breakdown
+Par age,02/2019,moins souvent,20,44,France,market-breakdown
+Par age,03/2019,moins souvent,8,232,France,market-breakdown
+Par age,04/2019,moins souvent,8,241,France,market-breakdown
+Par age,05/2019,moins souvent,5,103,France,market-breakdown
+Par territoire,01/2018,jamais,1,896,France,market-breakdown
+Par territoire,02/2018,jamais,1,1242,France,market-breakdown
+Par territoire,03/2018,jamais,1,131,France,market-breakdown
+Par territoire,04/2018,jamais,2,110,France,market-breakdown
+Par territoire,05/2018,jamais,1,160,France,market-breakdown
+Par territoire,06/2018,jamais,0,103,France,market-breakdown
+Par territoire,07/2018,jamais,2,181,France,market-breakdown
+Par territoire,08/2018,jamais,0,153,France,market-breakdown
+Par territoire,09/2018,jamais,2,47,France,market-breakdown
+Par age,10/2018,jamais,1,896,France,market-breakdown
+Par age,11/2018,jamais,1,1242,France,market-breakdown
+Par age,12/2018,jamais,0,37,France,market-breakdown
+Par age,01/2019,jamais,0,239,France,market-breakdown
+Par age,02/2019,jamais,4,44,France,market-breakdown
+Par age,03/2019,jamais,2,232,France,market-breakdown
+Par age,04/2019,jamais,0,241,France,market-breakdown
+Par age,05/2019,jamais,0,103,France,market-breakdown
+Par territoire,01/2018,Au moins 1 fois/mois,9,896,France,market-breakdown
+Par territoire,02/2018,Au moins 1 fois/mois,11,1242,France,market-breakdown
+Par territoire,03/2018,Au moins 1 fois/mois,6,131,France,market-breakdown
+Par territoire,04/2018,Au moins 1 fois/mois,8,110,France,market-breakdown
+Par territoire,05/2018,Au moins 1 fois/mois,12,160,France,market-breakdown
+Par territoire,06/2018,Au moins 1 fois/mois,6,103,France,market-breakdown
+Par territoire,07/2018,Au moins 1 fois/mois,7,181,France,market-breakdown
+Par territoire,08/2018,Au moins 1 fois/mois,12,153,France,market-breakdown
+Par territoire,09/2018,Au moins 1 fois/mois,19,47,France,market-breakdown
+Par age,10/2018,Au moins 1 fois/mois,9,896,France,market-breakdown
+Par age,11/2018,Au moins 1 fois/mois,11,1242,France,market-breakdown
+Par age,12/2018,Au moins 1 fois/mois,8,37,France,market-breakdown
+Par age,01/2019,Au moins 1 fois/mois,11,239,France,market-breakdown
+Par age,02/2019,Au moins 1 fois/mois,4,44,France,market-breakdown
+Par age,03/2019,Au moins 1 fois/mois,12,232,France,market-breakdown
+Par age,04/2019,Au moins 1 fois/mois,6,241,France,market-breakdown
+Par age,05/2019,Au moins 1 fois/mois,8,103,France,market-breakdown

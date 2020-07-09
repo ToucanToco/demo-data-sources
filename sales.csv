@@ -1,0 +1,209 @@
+Branch level 2;EntityHand;GLA;Lease end;Retailer name;Shape_ID;CA;Target;breakdown;domain;floor;floor_1;value;value_comp;Last Year
+Fashion;81;67;31/08/2022;Magasin 1;0_6;114682;139348;Shop Front Traffic;ventes_magasins;0;Floor 0;4.3;4;86011.5
+Fashion;82;151;28/05/2022;Magasin 2;0_7;162598;156529;Shop Front Traffic;ventes_magasins;0;Floor 0;17.3;9.4;121948.5
+Fashion;93;149;31/07/2021;Magasin 3;0_15;335471;216604;Shop Front Traffic;ventes_magasins;0;Floor 0;6.5;7.8;251603.25
+Fashion;94;108;15/05/2022;Magasin 4;0_16;123057;175715;Shop Front Traffic;ventes_magasins;0;Floor 0;7.6;7.2;92292.75
+Fashion;95;149;31/07/2019;Magasin 5;0_17;135571;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;7.6;10.2;101678.25
+Fashion;96;267;06/05/2022;Magasin 6;0_18;119315;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;15.7;10.2;89486.25
+Fashion;97;85;16/05/2022;Magasin 7;0_19;137511;148500;Shop Front Traffic;ventes_magasins;0;Floor 0;12.9;7.7;103133.25
+General Alimentation;98;285;18/04/2022;Magasin 8;0_20;249143;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;3;10.2;186857.25
+General Alimentation;9A;114;28/05/2022;Magasin 9;0_22;111731;111731;Shop Front Traffic;ventes_magasins;0;Floor 0;4.6;4.6;83798.25
+General Alimentation;9D;182;29/04/2022;Magasin 10;0_24;154895;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;8.4;10.2;116171.25
+General Alimentation;9E;290;02/05/2022;Magasin 11;0_25;238075;249213;Shop Front Traffic;ventes_magasins;0;Floor 0;9.7;11.5;178556.25
+General Alimentation;A2;87;09/02/2024;Magasin 12;0_28;135887;148134;Shop Front Traffic;ventes_magasins;0;Floor 0;3;1.8;101915.25
+General Alimentation;A3;157;31/08/2022;Magasin 13;0_29;143095;168894;Shop Front Traffic;ventes_magasins;0;Floor 0;3.6;8.5;107321.25
+General Alimentation;A5;135;15/05/2012;Magasin 14;0_30;138778;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;13.6;10.2;104083.5
+General Alimentation;A7;145;30/06/2022;Magasin 15;0_32;184675;149305;Shop Front Traffic;ventes_magasins;0;Floor 0;19.7;15.6;138506.25
+General Alimentation;A9;131;14/07/2018;Magasin 16;0_34;174280;168894;Shop Front Traffic;ventes_magasins;0;Floor 0;4.8;8.5;130710
+Hairdressers;AC;86;31/07/2021;Magasin 17;0_37;197663;164597;Shop Front Traffic;ventes_magasins;0;Floor 0;16.8;13.4;148247.25
+Hairdressers;AF;86;18/10/2016;Magasin 18;0_40;228373;175715;Shop Front Traffic;ventes_magasins;0;Floor 0;6.8;7.2;171279.75
+Hairdressers;B4;110;15/05/2022;Magasin 19;0_42;191347;151638;Shop Front Traffic;ventes_magasins;0;Floor 0;6.5;6.9;143510.25
+Hairdressers;B5;170;30/12/2023;Boutique 1;0_43;223799;186962;Shop Front Traffic;ventes_magasins;0;Floor 0;5.9;5.3;167849.25
+Hairdressers;B6;54;30/12/2023;Boutique 2;0_44;242134;186962;Shop Front Traffic;ventes_magasins;0;Floor 0;2.9;5.3;181600.5
+Hairdressers;B7;134;14/05/2022;Boutique 3;0_45;132977;186962;Shop Front Traffic;ventes_magasins;0;Floor 0;8.7;5.3;99732.75
+Hairdressers;B9;70;28/05/2012;Boutique 4;0_47;137392;137392;Shop Front Traffic;ventes_magasins;0;Floor 0;2.8;2.8;103044
+Hairdressers;BA;160;15/05/2022;Boutique 5;0_48;192159;144903;Shop Front Traffic;ventes_magasins;0;Floor 0;6;6;144119.25
+Hairdressers;BB;482;04/11/2017;Boutique 6;0_49;254826;209407;Shop Front Traffic;ventes_magasins;0;Floor 0;9.1;17.3;191119.5
+Hairdressers;BC;214;14/05/2021;Boutique 7;0_50;211999;176999;Shop Front Traffic;ventes_magasins;0;Floor 0;6.7;10.5;158999.25
+Family Fashion;BF;1509;31/12/2018;Boutique 8;0_53;322186;209407;Shop Front Traffic;ventes_magasins;0;Floor 0;32.1;17.3;241639.5
+Technologie;C2;650;29/04/2012;Boutique 9;0_54;286546;286546;Shop Front Traffic;ventes_magasins;0;Floor 0;24.9;24.9;214909.5
+Technologie;C3;100;02/09/2019;Boutique 10;0_55;148936;186962;Shop Front Traffic;ventes_magasins;0;Floor 0;3.9;5.3;111702
+Technologie;C4;13000;13/11/2014;Boutique 11;0_56;394119;394119;Shop Front Traffic;ventes_magasins;0;Floor 0;33.2;33.2;295589.25
+Technologie;C7;362;30/04/2015;Boutique 12;0_57;274943;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;11.8;10.2;206207.25
+Technologie;C8;80;25/10/2016;Boutique 13;0_58;263776;216604;Shop Front Traffic;ventes_magasins;0;Floor 0;4.8;7.8;197832
+Technologie;CD;110;27/03/2021;Boutique 14;0_61;201623;139348;Shop Front Traffic;ventes_magasins;0;Floor 0;4.3;4;151217.25
+Technologie;CE;108;01/01/2018;Boutique 15;0_62;209306;199043;Shop Front Traffic;ventes_magasins;0;Floor 0;16.8;16;156979.5
+Technologie;D0;54;02/10/2021;Boutique 16;0_64;191169;182398;Shop Front Traffic;ventes_magasins;0;Floor 0;5.8;7.4;143376.75
+Technologie;D1;153;31/03/2019;Boutique 17;0_65;183506;199043;Shop Front Traffic;ventes_magasins;0;Floor 0;17.7;16;137629.5
+Technologie;D2;176;15/05/2022;Boutique 18;0_66;318285;202920;Shop Front Traffic;ventes_magasins;0;Floor 0;12.8;13.2;238713.75
+Technologie;D3;213;01/10/2016;Agence 1;0_67;306167;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;18.4;10.2;229625.25
+Services;D4;91;28/05/2022;Agence 2;0_68;137155;151911;Shop Front Traffic;ventes_magasins;0;Floor 0;7.1;8.8;102866.25
+Services;D8;224;30/11/2021;Agence 3;0_70;201425;201425;Shop Front Traffic;ventes_magasins;0;Floor 0;9.1;9.1;151068.75
+Services;27A;2390;30/09/2022;Agence 4;0_95;312741;209407;Shop Front Traffic;ventes_magasins;0;Floor 0;33.7;17.3;234555.75
+Services;290;864;20/09/2019;Agence 5;0_97;263380;191184;Shop Front Traffic;ventes_magasins;0;Floor 0;14;10.2;197535
+Fashion;81;67;31/08/2022;Magasin 1;0_6;114682;139348;Visits;ventes_magasins;0;Floor 0;4910;5592;86011.5
+Fashion;82;151;28/05/2022;Magasin 2;0_7;162598;156529;Visits;ventes_magasins;0;Floor 0;28175;14885;121948.5
+Fashion;93;149;31/07/2021;Magasin 3;0_15;335471;216604;Visits;ventes_magasins;0;Floor 0;21938;16109;251603.25
+Fashion;94;108;15/05/2022;Magasin 4;0_16;123057;175715;Visits;ventes_magasins;0;Floor 0;9365;12474;92292.75
+Fashion;95;149;31/07/2019;Magasin 5;0_17;135571;191184;Visits;ventes_magasins;0;Floor 0;10237;20033;101678.25
+Fashion;96;267;06/05/2022;Magasin 6;0_18;119315;191184;Visits;ventes_magasins;0;Floor 0;18691;20033;89486.25
+Fashion;97;85;16/05/2022;Magasin 7;0_19;137511;148500;Visits;ventes_magasins;0;Floor 0;17780;10811;103133.25
+General Alimentation;98;285;18/04/2022;Magasin 8;0_20;249143;191184;Visits;ventes_magasins;0;Floor 0;7366;20033;186857.25
+General Alimentation;9A;114;28/05/2022;Magasin 9;0_22;111731;111731;Visits;ventes_magasins;0;Floor 0;5128;5128;83798.25
+General Alimentation;9D;182;29/04/2022;Magasin 10;0_24;154895;191184;Visits;ventes_magasins;0;Floor 0;13088;20033;116171.25
+General Alimentation;9E;290;02/05/2022;Magasin 11;0_25;238075;249213;Visits;ventes_magasins;0;Floor 0;23107;28809;178556.25
+General Alimentation;A2;87;09/02/2024;Magasin 12;0_28;135887;148134;Visits;ventes_magasins;0;Floor 0;4099;2475;101915.25
+General Alimentation;A3;157;31/08/2022;Magasin 13;0_29;143095;168894;Visits;ventes_magasins;0;Floor 0;5108;16280;107321.25
+General Alimentation;A5;135;15/05/2012;Magasin 14;0_30;138778;191184;Visits;ventes_magasins;0;Floor 0;18889;20033;104083.5
+General Alimentation;A7;145;30/06/2022;Magasin 15;0_32;184675;149305;Visits;ventes_magasins;0;Floor 0;36293;20902;138506.25
+General Alimentation;A9;131;14/07/2018;Magasin 16;0_34;174280;168894;Visits;ventes_magasins;0;Floor 0;8316;16280;130710
+Hairdressers;AC;86;31/07/2021;Magasin 17;0_37;197663;164597;Visits;ventes_magasins;0;Floor 0;33304;23235;148247.25
+Hairdressers;AF;86;18/10/2016;Magasin 18;0_40;228373;175715;Visits;ventes_magasins;0;Floor 0;15583;12474;171279.75
+Hairdressers;B4;110;15/05/2022;Magasin 19;0_42;191347;151638;Visits;ventes_magasins;0;Floor 0;12415;10246;143510.25
+Hairdressers;B5;170;30/12/2023;Boutique 1;0_43;223799;186962;Visits;ventes_magasins;0;Floor 0;13226;9385;167849.25
+Hairdressers;B6;54;30/12/2023;Boutique 2;0_44;242134;186962;Visits;ventes_magasins;0;Floor 0;6930;9385;181600.5
+Hairdressers;B7;134;14/05/2022;Boutique 3;0_45;132977;186962;Visits;ventes_magasins;0;Floor 0;11504;9385;99732.75
+Hairdressers;B9;70;28/05/2012;Boutique 4;0_47;137392;137392;Visits;ventes_magasins;0;Floor 0;3782;3782;103044
+Hairdressers;BA;160;15/05/2022;Boutique 5;0_48;192159;144903;Visits;ventes_magasins;0;Floor 0;11524;8672;144119.25
+Hairdressers;BB;482;04/11/2017;Boutique 6;0_49;254826;209407;Visits;ventes_magasins;0;Floor 0;23186;40946;191119.5
+Hairdressers;BC;214;14/05/2021;Boutique 7;0_50;211999;176999;Visits;ventes_magasins;0;Floor 0;14276;19312;158999.25
+Family Fashion;BF;1509;31/12/2018;Boutique 8;0_53;322186;209407;Visits;ventes_magasins;0;Floor 0;103455;40946;241639.5
+Technologie;C2;650;29/04/2012;Boutique 9;0_54;286546;286546;Visits;ventes_magasins;0;Floor 0;71260;71260;214909.5
+Technologie;C3;100;02/09/2019;Boutique 10;0_55;148936;186962;Visits;ventes_magasins;0;Floor 0;5881;9385;111702
+Technologie;C4;13000;13/11/2014;Boutique 11;0_56;394119;394119;Visits;ventes_magasins;0;Floor 0;130838;130838;295589.25
+Technologie;C7;362;30/04/2015;Boutique 12;0_57;274943;191184;Visits;ventes_magasins;0;Floor 0;32314;20033;206207.25
+Technologie;C8;80;25/10/2016;Boutique 13;0_58;263776;216604;Visits;ventes_magasins;0;Floor 0;12613;16109;197832
+Technologie;CD;110;27/03/2021;Boutique 14;0_61;201623;139348;Visits;ventes_magasins;0;Floor 0;8712;5592;151217.25
+Technologie;CE;108;01/01/2018;Boutique 15;0_62;209306;199043;Visits;ventes_magasins;0;Floor 0;35105;31786;156979.5
+Technologie;D0;54;02/10/2021;Boutique 16;0_64;191169;182398;Visits;ventes_magasins;0;Floor 0;11088;13345;143376.75
+Technologie;D1;153;31/03/2019;Boutique 17;0_65;183506;199043;Visits;ventes_magasins;0;Floor 0;32512;31786;137629.5
+Technologie;D2;176;15/05/2022;Boutique 18;0_66;318285;202920;Visits;ventes_magasins;0;Floor 0;40669;27334;238713.75
+Technologie;D3;213;01/10/2016;Agence 1;0_67;306167;191184;Visits;ventes_magasins;0;Floor 0;56232;20033;229625.25
+Services;D4;91;28/05/2022;Agence 2;0_68;137155;151911;Visits;ventes_magasins;0;Floor 0;9781;13474;102866.25
+Services;D8;224;30/11/2021;Agence 3;0_70;201425;201425;Visits;ventes_magasins;0;Floor 0;18275;18275;151068.75
+Services;27A;2390;30/09/2022;Agence 4;0_95;312741;209407;Visits;ventes_magasins;0;Floor 0;105514;40946;234555.75
+Services;290;864;20/09/2019;Agence 5;0_97;263380;191184;Visits;ventes_magasins;0;Floor 0;36887;20033;197535
+Fashion;6A;158;11/06/2019;Tenant 1;1_7;144903;126383;Shop Front Traffic;ventes_magasins;1;Floor 1;4.9;6;108677.25
+Fashion;88;918;08/05/2021;Magasin 2;1_11;209407;234571;Shop Front Traffic;ventes_magasins;1;Floor 1;8.2;17.3;157055.25
+Fashion;9C;151;31/07/2021;Magasin 3;1_17;168894;157945;Shop Front Traffic;ventes_magasins;1;Floor 1;4.7;8.5;126670.5
+Fashion;A2;152;31/07/2021;Magasin 4;1_19;156783;111494;Shop Front Traffic;ventes_magasins;1;Floor 1;7.7;10;117587.25
+Fashion;A7;143;16/05/2020;Magasin 5;1_21;202920;215167;Shop Front Traffic;ventes_magasins;1;Floor 1;17.1;13.2;152190
+Fashion;A8;350;11/07/2021;Magasin 6;1_22;156529;238768;Shop Front Traffic;ventes_magasins;1;Floor 1;7;9.4;117396.75
+Fashion;AD;700;15/07/2022;Magasin 7;1_23;210622;245916;Shop Front Traffic;ventes_magasins;1;Floor 1;5.5;9.1;157966.5
+General Alimentation;F9;282;10/04/2012;Magasin 8;1_25;57281;57281;Shop Front Traffic;ventes_magasins;1;Floor 1;43.4;43.4;42960.75
+General Alimentation;FB;575;13/05/2022;Magasin 9;1_26;249213;260350;Shop Front Traffic;ventes_magasins;1;Floor 1;13.3;11.5;186909.75
+General Alimentation;FD;87;30/06/2022;Magasin 10;1_28;199043;204316;Shop Front Traffic;ventes_magasins;1;Floor 1;13.6;16;149282.25
+General Alimentation;FE;140;31/08/2022;Magasin 11;1_29;191184;211226;Shop Front Traffic;ventes_magasins;1;Floor 1;4.3;10.2;143388
+General Alimentation;FF;105;13/05/2022;Magasin 12;1_30;164597;131531;Shop Front Traffic;ventes_magasins;1;Floor 1;10;13.4;123447.75
+General Alimentation;100;199;31/08/2022;Magasin 13;1_31;168894;221027;Shop Front Traffic;ventes_magasins;1;Floor 1;23;8.5;126670.5
+General Alimentation;101;110;12/05/2022;Magasin 14;1_32;211979;211979;Shop Front Traffic;ventes_magasins;1;Floor 1;18.1;18.1;158984.25
+General Alimentation;105;55;14/05/2022;Magasin 15;1_35;148500;159489;Shop Front Traffic;ventes_magasins;1;Floor 1;2.4;7.7;111375
+General Alimentation;107;75;30/06/2021;Magasin 16;1_36;173606;173606;Shop Front Traffic;ventes_magasins;1;Floor 1;9;9;130204.5
+Hairdressers;108;582;08/10/2023;Magasin 17;1_37;176999;198693;Shop Front Traffic;ventes_magasins;1;Floor 1;17.9;10.5;132749.25
+Hairdressers;109;75;30/09/2021;Magasin 18;1_38;216604;141332;Shop Front Traffic;ventes_magasins;1;Floor 1;8.6;7.8;162453
+Hairdressers;10A;62;31/08/2021;Boutique 1;1_39;136521;136521;Shop Front Traffic;ventes_magasins;1;Floor 1;1.9;1.9;102390.75
+Hairdressers;10B;320;14/05/2022;Boutique 2;1_40;202920;140065;Shop Front Traffic;ventes_magasins;1;Floor 1;18.6;13.2;152190
+Hairdressers;10C;185;15/05/2015;Boutique 3;1_41;191184;135828;Shop Front Traffic;ventes_magasins;1;Floor 1;11.3;10.2;143388
+Hairdressers;10E;1256;30/06/2021;Boutique 4;1_43;176398;176398;Shop Front Traffic;ventes_magasins;1;Floor 1;14.1;14.1;132298.5
+Hairdressers;114;213;01/01/1900;Boutique 5;1_47;149305;94050;Shop Front Traffic;ventes_magasins;1;Floor 1;25.8;15.6;111978.75
+Hairdressers;115;268;20/05/2012;Boutique 6;1_48;149305;169191;Shop Front Traffic;ventes_magasins;1;Floor 1;1.3;15.6;111978.75
+Hairdressers;116;103;13/05/2022;Boutique 7;1_49;156783;234234;Shop Front Traffic;ventes_magasins;1;Floor 1;7.6;10;117587.25
+Hairdressers;117;62;13/05/2022;Boutique 8;1_50;203212;273438;Shop Front Traffic;ventes_magasins;1;Floor 1;2.5;2.5;152409
+Family Fashion;118;62;14/05/2012;Boutique 9;1_51;203212;117909;Shop Front Traffic;ventes_magasins;1;Floor 1;1.5;2.5;152409
+Technologie;11A;88;13/05/2022;Boutique 10;1_52;203212;185882;Shop Front Traffic;ventes_magasins;1;Floor 1;2.9;2.5;152409
+Technologie;11B;109;14/05/2022;Boutique 11;1_53;156783;124621;Shop Front Traffic;ventes_magasins;1;Floor 1;14.6;10;117587.25
+Technologie;11F;248;15/05/2022;Boutique 12;1_56;209407;134501;Shop Front Traffic;ventes_magasins;1;Floor 1;12;17.3;157055.25
+Technologie;120;184;14/05/2022;Boutique 13;1_57;209407;129551;Shop Front Traffic;ventes_magasins;1;Floor 1;11;17.3;157055.25
+Technologie;121;166;30/12/2020;Boutique 14;1_58;176999;120305;Shop Front Traffic;ventes_magasins;1;Floor 1;6.8;10.5;132749.25
+Technologie;122;45;01/07/2018;Boutique 15;1_59;139348;117058;Shop Front Traffic;ventes_magasins;1;Floor 1;1.4;4;104511
+Technologie;123;126;24/08/2014;Boutique 16;1_60;151638;111929;Shop Front Traffic;ventes_magasins;1;Floor 1;7.2;6.9;113728.5
+Technologie;124;180;31/03/2015;Boutique 17;1_61;151911;139273;Shop Front Traffic;ventes_magasins;1;Floor 1;10.8;8.8;113933.25
+Technologie;126;13000;13/11/2014;Boutique 18;1_62;394119;394119;Shop Front Traffic;ventes_magasins;1;Floor 1;33.2;33.2;295589.25
+Technologie;12B;150;31/03/2021;Boutique 19;1_64;191184;126423;Shop Front Traffic;ventes_magasins;1;Floor 1;6.3;10.2;143388
+Technologie;12C;116;31/03/2016;Boutique 20;1_65;182398;173626;Shop Front Traffic;ventes_magasins;1;Floor 1;9;7.4;136798.5
+Services;12D;245;30/11/2021;Boutique 21;1_66;209407;156559;Shop Front Traffic;ventes_magasins;1;Floor 1;14.3;17.3;157055.25
+Services;12F;117;30/09/2022;Boutique 22;1_68;148134;160380;Shop Front Traffic;ventes_magasins;1;Floor 1;0.5;1.8;111100.5
+Services;130;148;31/08/2022;Boutique 23;1_69;168894;148124;Shop Front Traffic;ventes_magasins;1;Floor 1;6.6;8.5;126670.5
+Services;131;108;30/03/2019;Boutique 24;1_70;156529;103831;Shop Front Traffic;ventes_magasins;1;Floor 1;6.9;9.4;117396.75
+Services;132;316;02/10/2021;Boutique 25;1_71;209407;130324;Shop Front Traffic;ventes_magasins;1;Floor 1;17.9;17.3;157055.25
+Services;133;75;30/06/2023;Boutique 26;1_72;139348;141134;Shop Front Traffic;ventes_magasins;1;Floor 1;2.3;4;104511
+Services;134;155;16/05/2020;Boutique 27;1_73;202920;138164;Shop Front Traffic;ventes_magasins;1;Floor 1;4.2;13.2;152190
+Services;135;137;22/05/2022;Boutique 28;1_74;139348;122245;Shop Front Traffic;ventes_magasins;1;Floor 1;7.8;4;104511
+Services;138;216;23/04/2012;Boutique 29;1_77;137353;137353;Shop Front Traffic;ventes_magasins;1;Floor 1;16.9;16.9;103014.75
+Services;161;136;14/06/2019;Boutique 30;1_93;144903;116167;Shop Front Traffic;ventes_magasins;1;Floor 1;7.1;6;108677.25
+Services;164;84;01/07/2023;Boutique 31;1_95;203212;235620;Shop Front Traffic;ventes_magasins;1;Floor 1;3.3;2.5;152409
+Services;16A;197;15/07/2020;Boutique 32;1_97;156529;120919;Shop Front Traffic;ventes_magasins;1;Floor 1;6.2;9.4;117396.75
+Services;195;229;28/02/2023;Boutique 33;1_101;232729;232729;Shop Front Traffic;ventes_magasins;1;Floor 1;10.1;10.1;174546.75
+Services;197;292;13/05/2012;Boutique 34;1_102;191184;178537;Shop Front Traffic;ventes_magasins;1;Floor 1;8;10.2;143388
+Sports;198;74;31/10/2023;Agence 1;1_103;216604;194159;Shop Front Traffic;ventes_magasins;1;Floor 1;11.8;7.8;162453
+Sports;198;74;31/10/2023;Agence 2;1_103;216604;148282;Shop Front Traffic;ventes_magasins;1;Floor 1;7.3;7.8;162453
+Sports;19A;74;31/10/2023;Agence 3;1_104;216604;194159;Shop Front Traffic;ventes_magasins;1;Floor 1;11.8;7.8;162453
+Sports;19A;74;31/10/2023;Agence 4;1_104;216604;148282;Shop Front Traffic;ventes_magasins;1;Floor 1;7.3;7.8;162453
+Sports;19D;65;23/10/2023;Agence 5;1_105;147074;147074;Shop Front Traffic;ventes_magasins;1;Floor 1;2.2;2.2;110305.5
+Sports;1A6;3392;09/04/2012;Agence 6;1_108;210622;175329;Shop Front Traffic;ventes_magasins;1;Floor 1;12.6;9.1;157966.5
+Sports;1A9;351;19/06/2022;Agence 7;1_109;158321;158321;Shop Front Traffic;ventes_magasins;1;Floor 1;13.4;13.4;118740.75
+Sports;1B6;391;30/06/2022;Agence 8;1_110;144184;144184;Shop Front Traffic;ventes_magasins;1;Floor 1;14;14;108138
+Sports;1B7;215;14/05/2022;Agence 9;1_111;151911;150143;Shop Front Traffic;ventes_magasins;1;Floor 1;7.1;8.8;113933.25
+Sports;1B9;168;14/05/2022;Agence 10;1_112;151911;181071;Shop Front Traffic;ventes_magasins;1;Floor 1;10.2;8.8;113933.25
+Fashion;6A;158;11/06/2019;Magasin 1;1_7;144903;126383;Visits;ventes_magasins;1;Floor 1;6217;8672;108677.25
+Fashion;88;918;08/05/2021;Magasin 2;1_11;209407;234571;Visits;ventes_magasins;1;Floor 1;19285;40946;157055.25
+Fashion;9C;151;31/07/2021;Magasin 3;1_17;168894;157945;Visits;ventes_magasins;1;Floor 1;7366;16280;126670.5
+Fashion;A2;152;31/07/2021;Magasin 4;1_19;156783;111494;Visits;ventes_magasins;1;Floor 1;8534;14876;117587.25
+Fashion;A7;143;16/05/2020;Magasin 5;1_21;202920;215167;Visits;ventes_magasins;1;Floor 1;36769;27334;152190
+Fashion;A8;350;11/07/2021;Magasin 6;1_22;156529;238768;Visits;ventes_magasins;1;Floor 1;16672;14885;117396.75
+Fashion;AD;700;15/07/2022;Magasin 7;1_23;210622;245916;Visits;ventes_magasins;1;Floor 1;13603;17879;157966.5
+General Alimentation;F9;282;10/04/2012;Magasin 8;1_25;57281;57281;Visits;ventes_magasins;1;Floor 1;24889;24889;42960.75
+General Alimentation;FB;575;13/05/2022;Magasin 9;1_26;249213;260350;Visits;ventes_magasins;1;Floor 1;34511;28809;186909.75
+General Alimentation;FD;87;30/06/2022;Magasin 10;1_28;199043;204316;Visits;ventes_magasins;1;Floor 1;27740;31786;149282.25
+General Alimentation;FE;140;31/08/2022;Magasin 11;1_29;191184;211226;Visits;ventes_magasins;1;Floor 1;9108;20033;143388
+General Alimentation;FF;105;13/05/2022;Magasin 12;1_30;164597;131531;Visits;ventes_magasins;1;Floor 1;13167;23235;123447.75
+General Alimentation;100;199;31/08/2022;Magasin 13;1_31;168894;221027;Visits;ventes_magasins;1;Floor 1;50886;16280;126670.5
+General Alimentation;101;110;12/05/2022;Magasin 14;1_32;211979;211979;Visits;ventes_magasins;1;Floor 1;38372;38372;158984.25
+General Alimentation;105;55;14/05/2022;Magasin 15;1_35;148500;159489;Visits;ventes_magasins;1;Floor 1;3841;10811;111375
+General Alimentation;107;75;30/06/2021;Magasin 16;1_36;173606;173606;Visits;ventes_magasins;1;Floor 1;15701;15701;130204.5
+Hairdressers;108;582;08/10/2023;Magasin 17;1_37;176999;198693;Visits;ventes_magasins;1;Floor 1;35521;19312;132749.25
+Hairdressers;109;75;30/09/2021;Magasin 18;1_38;216604;141332;Visits;ventes_magasins;1;Floor 1;12157;16109;162453
+Hairdressers;10A;62;31/08/2021;Boutique 1;1_39;136521;136521;Visits;ventes_magasins;1;Floor 1;2554;2554;102390.75
+Hairdressers;10B;320;14/05/2022;Boutique 2;1_40;202920;140065;Visits;ventes_magasins;1;Floor 1;26037;27334;152190
+Hairdressers;10C;185;15/05/2015;Boutique 3;1_41;191184;135828;Visits;ventes_magasins;1;Floor 1;15385;20033;143388
+Hairdressers;10E;1256;30/06/2021;Boutique 4;1_43;176398;176398;Visits;ventes_magasins;1;Floor 1;24928;24928;132298.5
+Hairdressers;114;213;01/01/1900;Boutique 5;1_47;149305;94050;Visits;ventes_magasins;1;Floor 1;24295;20902;111978.75
+Hairdressers;115;268;20/05/2012;Boutique 6;1_48;149305;169191;Visits;ventes_magasins;1;Floor 1;2119;20902;111978.75
+Hairdressers;116;103;13/05/2022;Boutique 7;1_49;156783;234234;Visits;ventes_magasins;1;Floor 1;17899;14876;117587.25
+Hairdressers;117;62;13/05/2022;Boutique 8;1_50;203212;273438;Visits;ventes_magasins;1;Floor 1;6712;5381;152409
+Family Fashion;118;62;14/05/2012;Boutique 9;1_51;203212;117909;Visits;ventes_magasins;1;Floor 1;1802;5381;152409
+Technologie;11A;88;13/05/2022;Boutique 10;1_52;203212;185882;Visits;ventes_magasins;1;Floor 1;5346;5381;152409
+Technologie;11B;109;14/05/2022;Boutique 11;1_53;156783;124621;Visits;ventes_magasins;1;Floor 1;18196;14876;117587.25
+Technologie;11F;248;15/05/2022;Boutique 12;1_56;209407;134501;Visits;ventes_magasins;1;Floor 1;16117;40946;157055.25
+Technologie;120;184;14/05/2022;Boutique 13;1_57;209407;129551;Visits;ventes_magasins;1;Floor 1;14216;40946;157055.25
+Technologie;121;166;30/12/2020;Boutique 14;1_58;176999;120305;Visits;ventes_magasins;1;Floor 1;8138;19312;132749.25
+Technologie;122;45;01/07/2018;Boutique 15;1_59;139348;117058;Visits;ventes_magasins;1;Floor 1;1663;5592;104511
+Technologie;123;126;24/08/2014;Boutique 16;1_60;151638;111929;Visits;ventes_magasins;1;Floor 1;8078;10246;113728.5
+Technologie;124;180;31/03/2015;Boutique 17;1_61;151911;139273;Visits;ventes_magasins;1;Floor 1;14989;13474;113933.25
+Technologie;126;13000;13/11/2014;Boutique 18;1_62;394119;394119;Visits;ventes_magasins;1;Floor 1;130838;130838;295589.25
+Technologie;12B;150;31/03/2021;Boutique 19;1_64;191184;126423;Visits;ventes_magasins;1;Floor 1;7979;20033;143388
+Technologie;12C;116;31/03/2016;Boutique 20;1_65;182398;173626;Visits;ventes_magasins;1;Floor 1;15602;13345;136798.5
+Services;12D;245;30/11/2021;Boutique 21;1_66;209407;156559;Visits;ventes_magasins;1;Floor 1;22414;40946;157055.25
+Services;12F;117;30/09/2022;Boutique 22;1_68;148134;160380;Visits;ventes_magasins;1;Floor 1;851;2475;111100.5
+Services;130;148;31/08/2022;Boutique 23;1_69;168894;148124;Visits;ventes_magasins;1;Floor 1;9722;16280;126670.5
+Services;131;108;30/03/2019;Boutique 24;1_70;156529;103831;Visits;ventes_magasins;1;Floor 1;7168;14885;117396.75
+Services;132;316;02/10/2021;Boutique 25;1_71;209407;130324;Visits;ventes_magasins;1;Floor 1;23384;40946;157055.25
+Services;133;75;30/06/2023;Boutique 26;1_72;139348;141134;Visits;ventes_magasins;1;Floor 1;3188;5592;104511
+Services;134;155;16/05/2020;Boutique 27;1_73;202920;138164;Visits;ventes_magasins;1;Floor 1;5861;27334;152190
+Services;135;137;22/05/2022;Boutique 28;1_74;139348;122245;Visits;ventes_magasins;1;Floor 1;9484;5592;104511
+Services;138;216;23/04/2012;Boutique 29;1_77;137353;137353;Visits;ventes_magasins;1;Floor 1;23265;23265;103014.75
+Services;161;136;14/06/2019;Boutique 30;1_93;144903;116167;Visits;ventes_magasins;1;Floor 1;8276;8672;108677.25
+Services;164;84;01/07/2023;Boutique 31;1_95;203212;235620;Visits;ventes_magasins;1;Floor 1;7663;5381;152409
+Services;16A;197;15/07/2020;Boutique 32;1_97;156529;120919;Visits;ventes_magasins;1;Floor 1;7524;14885;117396.75
+Services;195;229;28/02/2023;Boutique 33;1_101;232729;232729;Visits;ventes_magasins;1;Floor 1;23423;23423;174546.75
+Services;197;292;13/05/2012;Boutique 34;1_102;191184;178537;Visits;ventes_magasins;1;Floor 1;14216;20033;143388
+Sports;198;74;31/10/2023;Agence 1;1_103;216604;194159;Visits;ventes_magasins;1;Floor 1;23008;16109;162453
+Sports;198;74;31/10/2023;Agence 2;1_103;216604;148282;Visits;ventes_magasins;1;Floor 1;10831;16109;162453
+Sports;19A;74;31/10/2023;Agence 3;1_104;216604;194159;Visits;ventes_magasins;1;Floor 1;23008;16109;162453
+Sports;19A;74;31/10/2023;Agence 4;1_104;216604;148282;Visits;ventes_magasins;1;Floor 1;10831;16109;162453
+Sports;19D;65;23/10/2023;Agence 5;1_105;147074;147074;Visits;ventes_magasins;1;Floor 1;3307;3307;110305.5
+Sports;1A6;3392;09/04/2012;Agence 6;1_108;210622;175329;Visits;ventes_magasins;1;Floor 1;22156;17879;157966.5
+Sports;1A9;351;19/06/2022;Agence 7;1_109;158321;158321;Visits;ventes_magasins;1;Floor 1;21245;21245;118740.75
+Sports;1B6;391;30/06/2022;Agence 8;1_110;144184;144184;Visits;ventes_magasins;1;Floor 1;20117;20117;108138
+Sports;1B7;215;14/05/2022;Agence 9;1_111;151911;150143;Visits;ventes_magasins;1;Floor 1;10712;13474;113933.25
+Sports;1B9;168;14/05/2022;Agence 10;1_112;151911;181071;Visits;ventes_magasins;1;Floor 1;18414;13474;113933.25

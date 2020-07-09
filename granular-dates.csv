@@ -1,0 +1,58 @@
+,_id,period,aggregation,year,subyear,label,month,quarter,domain
+0,5d5d46a01c9dd2ad43ae9e62,year,YTD,2019,,YTD 2019,,,granular-dates
+1,5d5d46a01c9dd2ad43ae9e63,year,Whole year,2018,,2018,,,granular-dates
+2,5d5d46a01c9dd2ad43ae9e64,year,Whole year,2017,,2017,,,granular-dates
+3,5d5d46a01c9dd2ad43ae9e65,quarter,cumulated,2019,Q3,YTD Q3 2019,,Q3,granular-dates
+4,5d5d46a01c9dd2ad43ae9e66,quarter,value,2019,Q3,Q3 2019,,Q3,granular-dates
+5,5d5d46a01c9dd2ad43ae9e67,quarter,cumulated,2019,Q2,YTD Q2 2019,,Q2,granular-dates
+6,5d5d46a01c9dd2ad43ae9e68,quarter,value,2019,Q2,Q2 2019,,Q2,granular-dates
+7,5d5d46a01c9dd2ad43ae9e69,quarter,cumulated,2019,Q1,YTD Q1 2019,,Q1,granular-dates
+8,5d5d46a01c9dd2ad43ae9e6a,quarter,value,2019,Q1,Q1 2019,,Q1,granular-dates
+9,5d5d46a01c9dd2ad43ae9e6b,quarter,cumulated,2018,Q4,YTD Q4 2018,,Q4,granular-dates
+10,5d5d46a01c9dd2ad43ae9e6c,quarter,value,2018,Q4,Q4 2018,,Q4,granular-dates
+11,5d5d46a01c9dd2ad43ae9e6d,quarter,cumulated,2018,Q3,YTD Q3 2018,,Q3,granular-dates
+12,5d5d46a01c9dd2ad43ae9e6e,quarter,value,2018,Q3,Q3 2018,,Q3,granular-dates
+13,5d5d46a01c9dd2ad43ae9e6f,quarter,cumulated,2018,Q2,YTD Q2 2018,,Q2,granular-dates
+14,5d5d46a01c9dd2ad43ae9e70,quarter,value,2018,Q2,Q2 2018,,Q2,granular-dates
+15,5d5d46a01c9dd2ad43ae9e71,quarter,cumulated,2018,Q1,YTD Q1 2018,,Q1,granular-dates
+16,5d5d46a01c9dd2ad43ae9e72,quarter,value,2018,Q1,Q1 2018,,Q1,granular-dates
+17,5d5d46a01c9dd2ad43ae9e73,month,cumulated,2019,2019-01,YTD 2019-01,1.0,,granular-dates
+18,5d5d46a01c9dd2ad43ae9e74,month,value,2019,2019-01,2019-01,1.0,,granular-dates
+19,5d5d46a01c9dd2ad43ae9e75,month,cumulated,2019,2019-02,YTD 2019-02,2.0,,granular-dates
+20,5d5d46a01c9dd2ad43ae9e76,month,value,2019,2019-02,2019-02,2.0,,granular-dates
+21,5d5d46a01c9dd2ad43ae9e77,month,cumulated,2019,2019-03,YTD 2019-03,3.0,,granular-dates
+22,5d5d46a01c9dd2ad43ae9e78,month,value,2019,2019-03,2019-03,3.0,,granular-dates
+23,5d5d46a01c9dd2ad43ae9e79,month,cumulated,2019,2019-04,YTD 2019-04,4.0,,granular-dates
+24,5d5d46a01c9dd2ad43ae9e7a,month,value,2019,2019-04,2019-04,4.0,,granular-dates
+25,5d5d46a01c9dd2ad43ae9e7b,month,cumulated,2019,2019-05,YTD 2019-05,5.0,,granular-dates
+26,5d5d46a01c9dd2ad43ae9e7c,month,value,2019,2019-05,2019-05,5.0,,granular-dates
+27,5d5d46a01c9dd2ad43ae9e7d,month,cumulated,2019,2019-06,YTD 2019-06,6.0,,granular-dates
+28,5d5d46a01c9dd2ad43ae9e7e,month,value,2019,2019-06,2019-06,6.0,,granular-dates
+29,5d5d46a01c9dd2ad43ae9e7f,month,cumulated,2019,2019-07,YTD 2019-07,7.0,,granular-dates
+30,5d5d46a01c9dd2ad43ae9e80,month,value,2019,2019-07,2019-07,7.0,,granular-dates
+31,5d5d46a01c9dd2ad43ae9e81,month,cumulated,2019,2019-08,YTD 2019-08,8.0,,granular-dates
+32,5d5d46a01c9dd2ad43ae9e82,month,value,2019,2019-08,2019-08,8.0,,granular-dates
+33,5d5d46a01c9dd2ad43ae9e83,month,cumulated,2018,2018-01,YTD 2018-01,1.0,,granular-dates
+34,5d5d46a01c9dd2ad43ae9e84,month,value,2018,2018-01,2018-01,1.0,,granular-dates
+35,5d5d46a01c9dd2ad43ae9e85,month,cumulated,2018,2018-02,YTD 2018-02,2.0,,granular-dates
+36,5d5d46a01c9dd2ad43ae9e86,month,value,2018,2018-02,2018-02,2.0,,granular-dates
+37,5d5d46a01c9dd2ad43ae9e87,month,cumulated,2018,2018-03,YTD 2018-03,3.0,,granular-dates
+38,5d5d46a01c9dd2ad43ae9e88,month,value,2018,2018-03,2018-03,3.0,,granular-dates
+39,5d5d46a01c9dd2ad43ae9e89,month,cumulated,2018,2018-04,YTD 2018-04,4.0,,granular-dates
+40,5d5d46a01c9dd2ad43ae9e8a,month,value,2018,2018-04,2018-04,4.0,,granular-dates
+41,5d5d46a01c9dd2ad43ae9e8b,month,cumulated,2018,2018-05,YTD 2018-05,5.0,,granular-dates
+42,5d5d46a01c9dd2ad43ae9e8c,month,value,2018,2018-05,2018-05,5.0,,granular-dates
+43,5d5d46a01c9dd2ad43ae9e8d,month,cumulated,2018,2018-06,YTD 2018-06,6.0,,granular-dates
+44,5d5d46a01c9dd2ad43ae9e8e,month,value,2018,2018-06,2018-06,6.0,,granular-dates
+45,5d5d46a01c9dd2ad43ae9e8f,month,cumulated,2018,2018-07,YTD 2018-07,7.0,,granular-dates
+46,5d5d46a01c9dd2ad43ae9e90,month,value,2018,2018-07,2018-07,7.0,,granular-dates
+47,5d5d46a01c9dd2ad43ae9e91,month,cumulated,2018,2018-08,YTD 2018-08,8.0,,granular-dates
+48,5d5d46a01c9dd2ad43ae9e92,month,value,2018,2018-08,2018-08,8.0,,granular-dates
+49,5d5d46a01c9dd2ad43ae9e93,month,cumulated,2018,2018-09,YTD 2018-09,9.0,,granular-dates
+50,5d5d46a01c9dd2ad43ae9e94,month,value,2018,2018-09,2018-09,9.0,,granular-dates
+51,5d5d46a01c9dd2ad43ae9e95,month,cumulated,2018,2018-10,YTD 2018-10,10.0,,granular-dates
+52,5d5d46a01c9dd2ad43ae9e96,month,value,2018,2018-10,2018-10,10.0,,granular-dates
+53,5d5d46a01c9dd2ad43ae9e97,month,cumulated,2018,2018-11,YTD 2018-11,11.0,,granular-dates
+54,5d5d46a01c9dd2ad43ae9e98,month,value,2018,2018-11,2018-11,11.0,,granular-dates
+55,5d5d46a01c9dd2ad43ae9e99,month,cumulated,2018,2018-12,YTD 2018-12,12.0,,granular-dates
+56,5d5d46a01c9dd2ad43ae9e9a,month,value,2018,2018-12,2018-12,12.0,,granular-dates

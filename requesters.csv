@@ -1,0 +1,13 @@
+countries,type,metric,date
+France,Brand A,Revenue,1/1/18
+UK,Brand B,Units,2/1/18
+Germany,Brand C,,3/1/18
+Italy,Brand D,,4/1/18
+Spain,,,5/1/18
+,,,6/1/18
+,,,7/1/18
+,,,8/1/18
+,,,9/1/18
+,,,10/1/18
+,,,11/1/18
+,,,12/1/18

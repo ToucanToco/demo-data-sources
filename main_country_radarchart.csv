@@ -1,0 +1,196 @@
+country,kpi_value,kpi
+Afghanistan,83.0,duration
+Argentina,108.0,duration
+Aruba,91.0,duration
+Australia,105.51851851851852,duration
+Bahamas,94.0,duration
+Belgium,103.0,duration
+Brazil,110.0,duration
+Bulgaria,109.0,duration
+Cambodia,100.0,duration
+Cameroon,104.0,duration
+Canada,99.39682539682539,duration
+Chile,127.0,duration
+China,114.86666666666666,duration
+Colombia,101.0,duration
+Czech Republic,117.0,duration
+Denmark,108.54545454545455,duration
+Dominican Republic,101.0,duration
+Egypt,108.0,duration
+Finland,93.0,duration
+France,108.94155844155844,duration
+Georgia,113.0,duration
+Germany,110.20618556701031,duration
+Greece,103.0,duration
+Hong Kong,101.23529411764706,duration
+Hungary,121.5,duration
+Iceland,230.33333333333334,duration
+India,139.38709677419354,duration
+Indonesia,102.0,duration
+Iran,107.25,duration
+Ireland,96.75,duration
+Israel,91.25,duration
+Italy,116.73913043478261,duration
+Japan,114.47826086956522,duration
+Kenya,60.0,duration
+Kyrgyzstan,135.0,duration
+Libya,156.0,duration
+Mexico,111.23529411764706,duration
+Netherlands,110.8,duration
+New Line,104.0,duration
+New Zealand,132.06666666666666,duration
+Nigeria,95.0,duration
+Norway,92.5,duration
+Official site,117.0,duration
+Pakistan,,duration
+Panama,105.0,duration
+Peru,110.0,duration
+Philippines,80.0,duration
+Poland,66.8,duration
+Romania,104.25,duration
+Russia,109.54545454545455,duration
+Slovakia,141.0,duration
+Slovenia,83.0,duration
+South Africa,101.25,duration
+South Korea,120.85714285714286,duration
+Soviet Union,115.0,duration
+Spain,105.93939393939394,duration
+Sweden,135.83333333333334,duration
+Switzerland,104.0,duration
+Taiwan,112.5,duration
+Thailand,142.8,duration
+Turkey,122.0,duration
+UK,109.9123595505618,duration
+USA,106.43514864509339,duration
+United Arab Emirates,62.0,duration
+West Germany,155.66666666666666,duration
+Afghanistan,7.4,imdb_score
+Argentina,7.5,imdb_score
+Aruba,4.8,imdb_score
+Australia,6.5145454545454555,imdb_score
+Bahamas,4.4,imdb_score
+Belgium,5.6,imdb_score
+Brazil,7.2749999999999995,imdb_score
+Bulgaria,6.1,imdb_score
+Cambodia,5.6,imdb_score
+Cameroon,7.5,imdb_score
+Canada,6.161904761904762,imdb_score
+Chile,6.9,imdb_score
+China,6.623333333333332,imdb_score
+Colombia,7.5,imdb_score
+Czech Republic,6.966666666666666,imdb_score
+Denmark,7.172727272727272,imdb_score
+Dominican Republic,6.9,imdb_score
+Egypt,8.1,imdb_score
+Finland,7.2,imdb_score
+France,6.678571428571429,imdb_score
+Georgia,5.6,imdb_score
+Germany,6.340206185567008,imdb_score
+Greece,7.0,imdb_score
+Hong Kong,6.741176470588235,imdb_score
+Hungary,6.449999999999999,imdb_score
+Iceland,7.333333333333333,imdb_score
+India,6.532352941176472,imdb_score
+Indonesia,7.6,imdb_score
+Iran,7.725,imdb_score
+Ireland,6.783333333333334,imdb_score
+Israel,7.5249999999999995,imdb_score
+Italy,6.873913043478259,imdb_score
+Japan,6.952173913043477,imdb_score
+Kenya,7.4,imdb_score
+Kyrgyzstan,8.7,imdb_score
+Libya,8.4,imdb_score
+Mexico,6.776470588235294,imdb_score
+Netherlands,6.94,imdb_score
+New Line,4.4,imdb_score
+New Zealand,7.279999999999999,imdb_score
+Nigeria,5.6,imdb_score
+Norway,6.7375,imdb_score
+Official site,6.3,imdb_score
+Pakistan,7.0,imdb_score
+Panama,7.2,imdb_score
+Peru,5.4,imdb_score
+Philippines,6.3,imdb_score
+Poland,7.62,imdb_score
+Romania,6.6,imdb_score
+Russia,6.081818181818182,imdb_score
+Slovakia,6.0,imdb_score
+Slovenia,6.4,imdb_score
+South Africa,6.4375,imdb_score
+South Korea,6.257142857142858,imdb_score
+Soviet Union,8.1,imdb_score
+Spain,6.8242424242424224,imdb_score
+Sweden,7.516666666666666,imdb_score
+Switzerland,5.8999999999999995,imdb_score
+Taiwan,7.15,imdb_score
+Thailand,6.08,imdb_score
+Turkey,6.0,imdb_score
+UK,6.8183035714285705,imdb_score
+USA,6.367428421329131,imdb_score
+United Arab Emirates,8.2,imdb_score
+West Germany,7.266666666666667,imdb_score
+Afghanistan,24.507195652173916,profitability
+Argentina,5.074341286549707,profitability
+Aruba,0.2878896,profitability
+Australia,1.289803897718787,profitability
+Bahamas,,profitability
+Belgium,0.02777822448979592,profitability
+Brazil,0.6502745890410958,profitability
+Bulgaria,,profitability
+Cambodia,,profitability
+Cameroon,,profitability
+Canada,1.5158380417626909,profitability
+Chile,0.4687939230769231,profitability
+China,0.22731064042884172,profitability
+Colombia,2.1723993333333333,profitability
+Czech Republic,0.02652315466029362,profitability
+Denmark,0.10188525139664803,profitability
+Dominican Republic,,profitability
+Egypt,,profitability
+Finland,0.15888545454545452,profitability
+France,0.5330782187599379,profitability
+Georgia,0.00085745,profitability
+Germany,0.8381241624214832,profitability
+Greece,0.10605530555555555,profitability
+Hong Kong,0.4829046877512731,profitability
+Hungary,0.009275869444444446,profitability
+Iceland,0.002303913043478261,profitability
+India,0.021609305968151627,profitability
+Indonesia,3.7319299999999997,profitability
+Iran,0.6601547991831178,profitability
+Ireland,0.5672854118358706,profitability
+Israel,1.0612939130434782,profitability
+Italy,0.2636456093361393,profitability
+Japan,0.09570474836758677,profitability
+Kenya,,profitability
+Kyrgyzstan,,profitability
+Libya,,profitability
+Mexico,1.3565601243017669,profitability
+Netherlands,0.18830053280053283,profitability
+New Line,0.07458278888888889,profitability
+New Zealand,1.3269241548332311,profitability
+Nigeria,,profitability
+Norway,0.021598432076600834,profitability
+Official site,1.3479280666666669,profitability
+Pakistan,,profitability
+Panama,,profitability
+Peru,1.2747240222222223,profitability
+Philippines,10.010142857142856,profitability
+Poland,0.5937030208333334,profitability
+Romania,2.0500025903818,profitability
+Russia,0.21655771569195137,profitability
+Slovakia,,profitability
+Slovenia,,profitability
+South Africa,3.4019098624338624,profitability
+South Korea,0.001612642778693026,profitability
+Soviet Union,,profitability
+Spain,0.20638033835374425,profitability
+Sweden,0.007548313492063491,profitability
+Switzerland,,profitability
+Taiwan,4.2893788,profitability
+Thailand,0.011451373377337735,profitability
+Turkey,,profitability
+UK,1.1725594931430439,profitability
+USA,1.5442059854807768,profitability
+United Arab Emirates,,profitability
+West Germany,0.5577138536585367,profitability

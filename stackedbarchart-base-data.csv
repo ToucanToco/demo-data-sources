@@ -1,0 +1,86 @@
+breakdown,catégorie,fréquence,part,clients,pays,domain
+Par territoire,Agglo 1 2014,plusieurs fois/an,45,896,France,market-breakdown
+Par territoire,Agglo 1 2011,plusieurs fois/an,50,1242,France,market-breakdown
+Par territoire,Agglo 2,plusieurs fois/an,49,131,France,market-breakdown
+Par territoire,Agglo 3,plusieurs fois/an,51,110,France,market-breakdown
+Par territoire,Ville moyenne 2,plusieurs fois/an,43,160,France,market-breakdown
+Par territoire,Ville moyenne 3,plusieurs fois/an,37,103,France,market-breakdown
+Par territoire,Grande Ville 1,plusieurs fois/an,47,181,France,market-breakdown
+Par territoire,Ville moyenne 4,plusieurs fois/an,44,153,France,market-breakdown
+Par territoire,Grande Ville 2,plusieurs fois/an,39,47,France,market-breakdown
+Par age,18-24 ans 2014,plusieurs fois/an,45,896,France,market-breakdown
+Par age,18-24 ans 2011,plusieurs fois/an,50,1242,France,market-breakdown
+Par age,25-35 ans,plusieurs fois/an,28,37,France,market-breakdown
+Par age,36-45 ans,plusieurs fois/an,41,239,France,market-breakdown
+Par age,46-55 ans,plusieurs fois/an,39,44,France,market-breakdown
+Par age,56-65 ans,plusieurs fois/an,46,232,France,market-breakdown
+Par age,66 + ans,plusieurs fois/an,54,241,France,market-breakdown
+Par age,moins de 18 ans,plusieurs fois/an,61,103,France,market-breakdown
+Par territoire,Agglo 1 2014,1 fois/an,35,896,France,market-breakdown
+Par territoire,Agglo 1 2011,1 fois/an,28,1242,France,market-breakdown
+Par territoire,Agglo 2,1 fois/an,32,131,France,market-breakdown
+Par territoire,Agglo 3,1 fois/an,28,110,France,market-breakdown
+Par territoire,Ville moyenne 2,1 fois/an,35,160,France,market-breakdown
+Par territoire,Ville moyenne 3,1 fois/an,45,103,France,market-breakdown
+Par territoire,Grande Ville 1,1 fois/an,35,181,France,market-breakdown
+Par territoire,Ville moyenne 4,1 fois/an,33,153,France,market-breakdown
+Par territoire,Grande Ville 2,1 fois/an,37,47,France,market-breakdown
+Par age,18-24 ans 2014,1 fois/an,35,896,France,market-breakdown
+Par age,18-24 ans 2011,1 fois/an,28,1242,France,market-breakdown
+Par age,25-35 ans,1 fois/an,41,37,France,market-breakdown
+Par age,36-45 ans,1 fois/an,39,239,France,market-breakdown
+Par age,46-55 ans,1 fois/an,33,44,France,market-breakdown
+Par age,56-65 ans,1 fois/an,32,232,France,market-breakdown
+Par age,66 + ans,1 fois/an,32,241,France,market-breakdown
+Par age,moins de 18 ans,1 fois/an,26,103,France,market-breakdown
+Par territoire,Agglo 1 2014,moins souvent,10,896,France,market-breakdown
+Par territoire,Agglo 1 2011,moins souvent,10,1242,France,market-breakdown
+Par territoire,Agglo 2,moins souvent,12,131,France,market-breakdown
+Par territoire,Agglo 3,moins souvent,11,110,France,market-breakdown
+Par territoire,Ville moyenne 2,moins souvent,9,160,France,market-breakdown
+Par territoire,Ville moyenne 3,moins souvent,12,103,France,market-breakdown
+Par territoire,Grande Ville 1,moins souvent,9,181,France,market-breakdown
+Par territoire,Ville moyenne 4,moins souvent,11,153,France,market-breakdown
+Par territoire,Grande Ville 2,moins souvent,3,47,France,market-breakdown
+Par age,18-24 ans 2014,moins souvent,10,896,France,market-breakdown
+Par age,18-24 ans 2011,moins souvent,10,1242,France,market-breakdown
+Par age,25-35 ans,moins souvent,23,37,France,market-breakdown
+Par age,36-45 ans,moins souvent,9,239,France,market-breakdown
+Par age,46-55 ans,moins souvent,20,44,France,market-breakdown
+Par age,56-65 ans,moins souvent,8,232,France,market-breakdown
+Par age,66 + ans,moins souvent,8,241,France,market-breakdown
+Par age,moins de 18 ans,moins souvent,5,103,France,market-breakdown
+Par territoire,Agglo 1 2014,jamais,1,896,France,market-breakdown
+Par territoire,Agglo 1 2011,jamais,1,1242,France,market-breakdown
+Par territoire,Agglo 2,jamais,1,131,France,market-breakdown
+Par territoire,Agglo 3,jamais,2,110,France,market-breakdown
+Par territoire,Ville moyenne 2,jamais,1,160,France,market-breakdown
+Par territoire,Ville moyenne 3,jamais,0,103,France,market-breakdown
+Par territoire,Grande Ville 1,jamais,2,181,France,market-breakdown
+Par territoire,Ville moyenne 4,jamais,0,153,France,market-breakdown
+Par territoire,Grande Ville 2,jamais,2,47,France,market-breakdown
+Par age,18-24 ans 2014,jamais,1,896,France,market-breakdown
+Par age,18-24 ans 2011,jamais,1,1242,France,market-breakdown
+Par age,25-35 ans,jamais,0,37,France,market-breakdown
+Par age,36-45 ans,jamais,0,239,France,market-breakdown
+Par age,46-55 ans,jamais,4,44,France,market-breakdown
+Par age,56-65 ans,jamais,2,232,France,market-breakdown
+Par age,66 + ans,jamais,0,241,France,market-breakdown
+Par age,moins de 18 ans,jamais,0,103,France,market-breakdown
+Par territoire,Agglo 1 2014,Au moins 1 fois/mois,9,896,France,market-breakdown
+Par territoire,Agglo 1 2011,Au moins 1 fois/mois,11,1242,France,market-breakdown
+Par territoire,Agglo 2,Au moins 1 fois/mois,6,131,France,market-breakdown
+Par territoire,Agglo 3,Au moins 1 fois/mois,8,110,France,market-breakdown
+Par territoire,Ville moyenne 2,Au moins 1 fois/mois,12,160,France,market-breakdown
+Par territoire,Ville moyenne 3,Au moins 1 fois/mois,6,103,France,market-breakdown
+Par territoire,Grande Ville 1,Au moins 1 fois/mois,7,181,France,market-breakdown
+Par territoire,Ville moyenne 4,Au moins 1 fois/mois,12,153,France,market-breakdown
+Par territoire,Grande Ville 2,Au moins 1 fois/mois,19,47,France,market-breakdown
+Par age,18-24 ans 2014,Au moins 1 fois/mois,9,896,France,market-breakdown
+Par age,18-24 ans 2011,Au moins 1 fois/mois,11,1242,France,market-breakdown
+Par age,25-35 ans,Au moins 1 fois/mois,8,37,France,market-breakdown
+Par age,36-45 ans,Au moins 1 fois/mois,11,239,France,market-breakdown
+Par age,46-55 ans,Au moins 1 fois/mois,4,44,France,market-breakdown
+Par age,56-65 ans,Au moins 1 fois/mois,12,232,France,market-breakdown
+Par age,66 + ans,Au moins 1 fois/mois,6,241,France,market-breakdown
+Par age,moins de 18 ans,Au moins 1 fois/mois,8,103,France,market-breakdown
