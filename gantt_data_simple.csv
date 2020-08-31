@@ -1,7 +1,7 @@
-,_id,packs,label,start_date,end_date,domain
-0,5f201cbb299a408eb310aafc,PO,Discovery,2021-01-01 00:00:00,2021-01-23 00:00:00,gantt_data_simple
-1,5f201cbb299a408eb310aafd,PO,User Interview,2021-01-15 00:00:00,2021-02-25 00:00:00,gantt_data_simple
-2,5f201cbb299a408eb310aafe,PO,Design thinking,2021-03-01 00:00:00,2021-04-04 00:00:00,gantt_data_simple
-3,5f201cbb299a408eb310aaff,Dev,MVP1,2021-04-04 00:00:00,2021-04-15 00:00:00,gantt_data_simple
-4,5f201cbb299a408eb310ab00,Dev,Testing,2021-04-15 00:00:00,2021-05-01 00:00:00,gantt_data_simple
-5,5f201cbb299a408eb310ab01,Dev,MVP2,2021-05-02 00:00:00,2021-06-01 00:00:00,gantt_data_simple
+packs,label,start_date,end_date,spent,budget
+PO,Discovery,1/1/21 0:00,1/23/21 0:00,31,17
+PO,User Interview,1/15/21 0:00,2/25/21 0:00,18,32
+PO,Design thinking,3/1/21 0:00,4/4/21 0:00,39,39
+Dev,MVP1,4/4/21 0:00,4/15/21 0:00,26,46
+Dev,Testing,4/15/21 0:00,5/1/21 0:00,34,43
+Dev,MVP2,5/2/21 0:00,6/1/21 0:00,36,23
