@@ -1,0 +1,16 @@
+,_id,packs,label,start_date,end_date,groups,domain
+0,5f340aca369c322a9c4c3fc7,PO,Discovery,1/1/21,1/8/21,Tech,gantt_stages
+1,5f340aca369c322a9c4c3fc8,PO,Discovery,1/9/21,1/15/21,Design,gantt_stages
+2,5f340aca369c322a9c4c3fc9,PO,Discovery,1/16/21,1/23/21,PO,gantt_stages
+3,5f340aca369c322a9c4c3fca,PO,User Interview,1/15/21,2/10/21,PO,gantt_stages
+4,5f340aca369c322a9c4c3fcb,PO,User Interview,2/11/21,2/25/21,Design,gantt_stages
+5,5f340aca369c322a9c4c3fcc,PO,Design thinking,3/1/21,4/4/21,,gantt_stages
+6,5f340aca369c322a9c4c3fcd,Dev,MVP1,4/5/21,4/6/21,Tech,gantt_stages
+7,5f340aca369c322a9c4c3fce,Dev,MVP1,4/7/21,4/10/21,Design,gantt_stages
+8,5f340aca369c322a9c4c3fcf,Dev,MVP1,4/11/21,4/15/21,PO,gantt_stages
+9,5f340aca369c322a9c4c3fd0,Dev,Testing,4/16/21,4/22/21,Tech,gantt_stages
+10,5f340aca369c322a9c4c3fd1,Dev,Testing,4/23/21,4/27/21,Design,gantt_stages
+11,5f340aca369c322a9c4c3fd2,Dev,Testing,4/28/21,5/1/21,PO,gantt_stages
+12,5f340aca369c322a9c4c3fd3,Dev,MVP2,5/2/21,5/10/21,Tech,gantt_stages
+13,5f340aca369c322a9c4c3fd4,Dev,MVP2,5/11/21,5/22/21,Design,gantt_stages
+14,5f340aca369c322a9c4c3fd5,Dev,MVP2,5/23/21,6/1/21,PO,gantt_stages
