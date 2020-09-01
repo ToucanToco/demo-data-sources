@@ -1,6 +1,6 @@
-,_id,packs,label,date,comment,domain
-0,5f43d3f7280a3694872361b9,PO,Discovery,1/14/21,Event for Discovery,gantt_events
-1,5f43d3f7280a3694872361ba,PO,User Interview,2/20/21,"Very long event,Very long event,Very long event,Very long event,Very long event",gantt_events
-2,5f43d3f7280a3694872361bb,PO,User Interview,2/21/21,Events very close,gantt_events
-3,5f43d3f7280a3694872361bc,Dev,MVP2,6/1/21,Event at the end of bar,gantt_events
-4,5f43d3f7280a3694872361bd,Dev,Testing,4/15/21,Event at the beginning of bar,gantt_events
+packs,label,date,comment
+PO,Discovery,1/14/21,Event for Discovery
+PO,User Interview,2/20/21,"Very long event,Very long event,Very long event,Very long event,Very long event"
+PO,User Interview,2/21/21,Events very close
+Dev,MVP2,6/1/21,Event at the end of bar
+Dev,Testing,4/15/21,Event at the beginning of bar
