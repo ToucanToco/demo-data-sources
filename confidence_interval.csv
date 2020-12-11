@@ -1,0 +1,16 @@
+,_id,year,jul,jul_is_prediction,jul_lower_bound,jul_higher_bound,iam,iam_is_prediction,iam_lower_bound,iam_higher_bound,domain
+0,5fd0e8408f8cd20577116632,2010-01-01,1,True,0,2,80,False,80,80,jul-vs-iam
+1,5fd0e8408f8cd20577116633,2011-01-01,1,True,0,4,70,False,70,70,jul-vs-iam
+2,5fd0e8408f8cd20577116634,2012-01-01,2,False,2,2,70,True,65,75,jul-vs-iam
+3,5fd0e8408f8cd20577116635,2013-01-01,3,False,3,3,60,True,55,70,jul-vs-iam
+4,5fd0e8408f8cd20577116636,2014-01-01,5,False,5,5,50,False,50,50,jul-vs-iam
+5,5fd0e8408f8cd20577116637,2015-01-01,20,False,20,20,45,False,45,45,jul-vs-iam
+6,5fd0e8408f8cd20577116638,2016-01-01,30,True,25,32,35,False,35,35,jul-vs-iam
+7,5fd0e8408f8cd20577116639,2017-01-01,40,False,40,40,20,False,20,20,jul-vs-iam
+8,5fd0e8408f8cd2057711663a,2018-01-01,45,False,45,45,10,False,10,10,jul-vs-iam
+9,5fd0e8408f8cd2057711663b,2019-01-01,50,False,50,50,5,False,5,5,jul-vs-iam
+10,5fd0e8408f8cd2057711663c,2020-01-01,60,False,60,60,10,False,10,10,jul-vs-iam
+11,5fd0e8408f8cd2057711663d,2021-01-01,70,True,68,72,5,True,2,10,jul-vs-iam
+12,5fd0e8408f8cd2057711663e,2022-01-01,75,True,68,79,3,True,1,5,jul-vs-iam
+13,5fd0e8408f8cd2057711663f,2023-01-01,80,True,70,85,2,True,0,10,jul-vs-iam
+14,5fd0e8408f8cd20577116640,2024-01-01,80,True,65,90,1,True,0,10,jul-vs-iam
