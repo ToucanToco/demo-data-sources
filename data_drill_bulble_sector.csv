@@ -1,0 +1,16 @@
+,_id,Group,Budget Consumed,Budget Evolution,Budget Weight,Label,Level,domain
+0,60798c6e498c34722a00a70a,Financial Direction,50,50,98,Accounting Department,sub,data_drill_bullbe
+1,60798c6e498c34722a00a70b,Financial Direction,21,18,74,Billing Department,sub,data_drill_bullbe
+2,60798c6e498c34722a00a70c,Financial Direction,43,12,33,Analytics Department,sub,data_drill_bullbe
+3,60798c6e498c34722a00a70d,HR Direction,79,-93,66,Talents Department,sub,data_drill_bullbe
+4,60798c6e498c34722a00a70e,HR Direction,-14,20,1,Hiring Department,sub,data_drill_bullbe
+5,60798c6e498c34722a00a70f,HR Direction,91,-53,61,Branding Department,sub,data_drill_bullbe
+6,60798c6e498c34722a00a710,Marketing Direction,-29,-82,13,Strategy Department,sub,data_drill_bullbe
+7,60798c6e498c34722a00a711,Marketing Direction,-65,-69,4,Events Department,sub,data_drill_bullbe
+8,60798c6e498c34722a00a712,IT Direction,33,-21,62,Infrastructure Department,sub,data_drill_bullbe
+9,60798c6e498c34722a00a713,IT Direction,26,92,32,Data Department,sub,data_drill_bullbe
+10,60798c6e498c34722a00a714,IT Direction,53,1,63,Web Department,sub,data_drill_bullbe
+11,60798c6e498c34722a00a715,Financial Direction,48,49,56,Financial Direction,main,data_drill_bullbe
+12,60798c6e498c34722a00a716,HR Direction,56,-85,71,HR Direction,main,data_drill_bullbe
+13,60798c6e498c34722a00a717,Marketing Direction,-56,-72,73,Marketing Direction,main,data_drill_bullbe
+14,60798c6e498c34722a00a718,IT Direction,58,88,98,IT Direction,main,data_drill_bullbe

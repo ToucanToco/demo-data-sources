@@ -1,0 +1,289 @@
+;_id;NOM_DEPT;value;CODE_DEPT;breakdown;delivery
+0;605c57b1a615c39a97039ff7;AIN;3652;1;Faits éluciés;In preparation
+1;605c57b1a615c39a97039ff8;AISNE;3227;2;Faits éluciés;In preparation
+2;605c57b1a615c39a97039ff9;ALLIER;2106;3;Faits éluciés;In preparation
+3;605c57b1a615c39a97039ffa;ALPES DE HAUTE PROVENCE;2512;4;Faits éluciés;In preparation
+4;605c57b1a615c39a97039ffb;ALPES MARITIMES;3146;6;Faits éluciés;In preparation
+5;605c57b1a615c39a97039ffc;ARDECHE;3001;7;Faits éluciés;In preparation
+6;605c57b1a615c39a97039ffd;ARDENNES;3600;8;Faits éluciés;In preparation
+7;605c57b1a615c39a97039ffe;ARIEGE;3457;9;Faits éluciés;In preparation
+8;605c57b1a615c39a97039fff;AUBE;3967;10;Faits éluciés;In preparation
+9;605c57b1a615c39a9703a000;AUDE;3743;11;Faits éluciés;In preparation
+10;605c57b1a615c39a9703a001;AVEYRON;2574;12;Faits éluciés;In preparation
+11;605c57b1a615c39a9703a002;BAS RHIN;3070;67;Faits éluciés;In preparation
+12;605c57b1a615c39a9703a003;BOUCHES DU RHONE;3829;13;Faits éluciés;In preparation
+13;605c57b1a615c39a9703a004;CALVADOS;3618;14;Faits éluciés;In preparation
+14;605c57b1a615c39a9703a005;CANTAL;2408;15;Faits éluciés;In preparation
+15;605c57b1a615c39a9703a006;CHARENTE;3560;16;Faits éluciés;In preparation
+16;605c57b1a615c39a9703a007;CHARENTE MARITIME;3293;17;Faits éluciés;In preparation
+17;605c57b1a615c39a9703a008;CHER;3381;18;Faits éluciés;In preparation
+18;605c57b1a615c39a9703a009;CORREZE;2179;19;Faits éluciés;In preparation
+19;605c57b1a615c39a9703a00a;CORSE DU SUD;2653;2A;Faits éluciés;In preparation
+20;605c57b1a615c39a9703a00b;COTE D OR;3872;21;Faits éluciés;In preparation
+21;605c57b1a615c39a9703a00c;COTES D ARMOR;3548;22;Faits éluciés;In preparation
+22;605c57b1a615c39a9703a00d;CREUSE;2023;23;Faits éluciés;In preparation
+23;605c57b1a615c39a9703a00e;DEUX SEVRES;3766;79;Faits éluciés;In preparation
+24;605c57b1a615c39a9703a00f;DORDOGNE;3055;24;Faits éluciés;In preparation
+25;605c57b1a615c39a9703a010;DOUBS;3155;25;Faits éluciés;In preparation
+26;605c57b1a615c39a9703a011;DROME;2083;26;Faits éluciés;In preparation
+27;605c57b1a615c39a9703a012;ESSONNE;3392;91;Faits éluciés;In preparation
+28;605c57b1a615c39a9703a013;EURE;2612;27;Faits éluciés;In preparation
+29;605c57b1a615c39a9703a014;EURE ET LOIR;3988;28;Faits éluciés;In preparation
+30;605c57b1a615c39a9703a015;FINISTERE;3863;29;Faits éluciés;In preparation
+31;605c57b1a615c39a9703a016;GARD;3093;30;Faits éluciés;In preparation
+32;605c57b1a615c39a9703a017;GERS;3150;32;Faits éluciés;In preparation
+33;605c57b1a615c39a9703a018;GIRONDE;2895;33;Faits éluciés;In preparation
+34;605c57b1a615c39a9703a019;HAUT RHIN;3766;68;Faits éluciés;In preparation
+35;605c57b1a615c39a9703a01a;HAUTE CORSE;2791;2B;Faits éluciés;In preparation
+36;605c57b1a615c39a9703a01b;HAUTE GARONNE;2425;31;Faits éluciés;In preparation
+37;605c57b1a615c39a9703a01c;HAUTE LOIRE;3054;43;Faits éluciés;In preparation
+38;605c57b1a615c39a9703a01d;HAUTE MARNE;3165;52;Faits éluciés;In preparation
+39;605c57b1a615c39a9703a01e;HAUTE SAONE;2296;70;Faits éluciés;In preparation
+40;605c57b1a615c39a9703a01f;HAUTE SAVOIE;2631;74;Faits éluciés;In preparation
+41;605c57b1a615c39a9703a020;HAUTE VIENNE;3168;87;Faits éluciés;In preparation
+42;605c57b1a615c39a9703a021;HAUTES ALPES;3835;5;Faits éluciés;In preparation
+43;605c57b1a615c39a9703a022;HAUTES PYRENEES;3697;65;Faits éluciés;In preparation
+44;605c57b1a615c39a9703a023;HAUTS DE SEINE;3372;92;Faits éluciés;In preparation
+45;605c57b1a615c39a9703a024;HERAULT;2136;34;Faits éluciés;In preparation
+46;605c57b1a615c39a9703a025;ILLE ET VILAINE;2235;35;Faits éluciés;In preparation
+47;605c57b1a615c39a9703a026;INDRE;3458;36;Faits éluciés;In preparation
+48;605c57b1a615c39a9703a027;INDRE ET LOIRE;3622;37;Faits éluciés;In preparation
+49;605c57b1a615c39a9703a028;ISERE;2125;38;Faits éluciés;In preparation
+50;605c57b1a615c39a9703a029;JURA;2838;39;Faits éluciés;In preparation
+51;605c57b1a615c39a9703a02a;LANDES;3370;40;Faits éluciés;In preparation
+52;605c57b1a615c39a9703a02b;LOIR ET CHER;2538;41;Faits éluciés;In preparation
+53;605c57b1a615c39a9703a02c;LOIRE;3384;42;Faits éluciés;In preparation
+54;605c57b1a615c39a9703a02d;LOIRE ATLANTIQUE;2031;44;Faits éluciés;In preparation
+55;605c57b1a615c39a9703a02e;LOIRET;3054;45;Faits éluciés;In preparation
+56;605c57b1a615c39a9703a02f;LOT;2644;46;Faits éluciés;In preparation
+57;605c57b1a615c39a9703a030;LOT ET GARONNE;2415;47;Faits éluciés;In preparation
+58;605c57b1a615c39a9703a031;LOZERE;3722;48;Faits éluciés;In preparation
+59;605c57b1a615c39a9703a032;MAINE ET LOIRE;3523;49;Faits éluciés;In preparation
+60;605c57b1a615c39a9703a033;MANCHE;2725;50;Faits éluciés;In preparation
+61;605c57b1a615c39a9703a034;MARNE;2356;51;Faits éluciés;In preparation
+62;605c57b1a615c39a9703a035;MAYENNE;2220;53;Faits éluciés;In preparation
+63;605c57b1a615c39a9703a036;MEURTHE ET MOSELLE;3359;54;Faits éluciés;In preparation
+64;605c57b1a615c39a9703a037;MEUSE;3561;55;Faits éluciés;In preparation
+65;605c57b1a615c39a9703a038;MORBIHAN;3455;56;Faits éluciés;In preparation
+66;605c57b1a615c39a9703a039;MOSELLE;3970;57;Faits éluciés;In preparation
+67;605c57b1a615c39a9703a03a;NIEVRE;2562;58;Faits éluciés;In preparation
+68;605c57b1a615c39a9703a03b;NORD;3031;59;Faits éluciés;In preparation
+69;605c57b1a615c39a9703a03c;OISE;2133;60;Faits éluciés;In preparation
+70;605c57b1a615c39a9703a03d;ORNE;3153;61;Faits éluciés;In preparation
+71;605c57b1a615c39a9703a03e;PARIS;3951;75;Faits éluciés;In preparation
+72;605c57b1a615c39a9703a03f;PAS DE CALAIS;2794;62;Faits éluciés;In preparation
+73;605c57b1a615c39a9703a040;PUY DE DOME;2818;63;Faits éluciés;In preparation
+74;605c57b1a615c39a9703a041;PYRENEES ATLANTIQUES;3189;64;Faits éluciés;In preparation
+75;605c57b1a615c39a9703a042;PYRENEES ORIENTALES;3624;66;Faits éluciés;In preparation
+76;605c57b1a615c39a9703a043;RHONE;3382;69;Faits éluciés;In preparation
+77;605c57b1a615c39a9703a044;SAONE ET LOIRE;3672;71;Faits éluciés;In preparation
+78;605c57b1a615c39a9703a045;SARTHE;2151;72;Faits éluciés;In preparation
+79;605c57b1a615c39a9703a046;SAVOIE;2910;73;Faits éluciés;In preparation
+80;605c57b1a615c39a9703a047;SEINE ET MARNE;2863;77;Faits éluciés;In preparation
+81;605c57b1a615c39a9703a048;SEINE MARITIME;2054;76;Faits éluciés;In preparation
+82;605c57b1a615c39a9703a049;SEINE SAINT DENIS;3880;93;Faits éluciés;In preparation
+83;605c57b1a615c39a9703a04a;SOMME;3649;80;Faits éluciés;In preparation
+84;605c57b1a615c39a9703a04b;TARN;3090;81;Faits éluciés;In preparation
+85;605c57b1a615c39a9703a04c;TARN ET GARONNE;2922;82;Faits éluciés;In preparation
+86;605c57b1a615c39a9703a04d;TERRITOIRE DE BELFORT;2484;90;Faits éluciés;In preparation
+87;605c57b1a615c39a9703a04e;VAL D OISE;2419;95;Faits éluciés;In preparation
+88;605c57b1a615c39a9703a04f;VAL DE MARNE;3313;94;Faits éluciés;In preparation
+89;605c57b1a615c39a9703a050;VAR;2218;83;Faits éluciés;In preparation
+90;605c57b1a615c39a9703a051;VAUCLUSE;3587;84;Faits éluciés;In preparation
+91;605c57b1a615c39a9703a052;VENDEE;3430;85;Faits éluciés;In preparation
+92;605c57b1a615c39a9703a053;VIENNE;2851;86;Faits éluciés;In preparation
+93;605c57b1a615c39a9703a054;VOSGES;3913;88;Faits éluciés;In preparation
+94;605c57b1a615c39a9703a055;YONNE;3063;89;Faits éluciés;In preparation
+95;605c57b1a615c39a9703a056;YVELINES;3699;78;Faits éluciés;In preparation
+96;605c57b1a615c39a9703a057;AIN;3682;1;Faits constatés;On delivery
+97;605c57b1a615c39a9703a058;AISNE;4857;2;Faits constatés;On delivery
+98;605c57b1a615c39a9703a059;ALLIER;4171;3;Faits constatés;On delivery
+99;605c57b1a615c39a9703a05a;ALPES DE HAUTE PROVENCE;4860;4;Faits constatés;On delivery
+100;605c57b1a615c39a9703a05b;ALPES MARITIMES;4117;6;Faits constatés;On delivery
+101;605c57b1a615c39a9703a05c;ARDECHE;4997;7;Faits constatés;On delivery
+102;605c57b1a615c39a9703a05d;ARDENNES;4926;8;Faits constatés;On delivery
+103;605c57b1a615c39a9703a05e;ARIEGE;3875;9;Faits constatés;On delivery
+104;605c57b1a615c39a9703a05f;AUBE;4984;10;Faits constatés;On delivery
+105;605c57b1a615c39a9703a060;AUDE;4074;11;Faits constatés;On delivery
+106;605c57b1a615c39a9703a061;AVEYRON;4976;12;Faits constatés;On delivery
+107;605c57b1a615c39a9703a062;BAS RHIN;4451;67;Faits constatés;On delivery
+108;605c57b1a615c39a9703a063;BOUCHES DU RHONE;4314;13;Faits constatés;On delivery
+109;605c57b1a615c39a9703a064;CALVADOS;4976;14;Faits constatés;On delivery
+110;605c57b1a615c39a9703a065;CANTAL;4326;15;Faits constatés;On delivery
+111;605c57b1a615c39a9703a066;CHARENTE;4714;16;Faits constatés;On delivery
+112;605c57b1a615c39a9703a067;CHARENTE MARITIME;4691;17;Faits constatés;On delivery
+113;605c57b1a615c39a9703a068;CHER;3718;18;Faits constatés;On delivery
+114;605c57b1a615c39a9703a069;CORREZE;3574;19;Faits constatés;On delivery
+115;605c57b1a615c39a9703a06a;CORSE DU SUD;4453;2A;Faits constatés;On delivery
+116;605c57b1a615c39a9703a06b;COTE D OR;3987;21;Faits constatés;On delivery
+117;605c57b1a615c39a9703a06c;COTES D ARMOR;4144;22;Faits constatés;On delivery
+118;605c57b1a615c39a9703a06d;CREUSE;4900;23;Faits constatés;On delivery
+119;605c57b1a615c39a9703a06e;DEUX SEVRES;4026;79;Faits constatés;On delivery
+120;605c57b1a615c39a9703a06f;DORDOGNE;3636;24;Faits constatés;On delivery
+121;605c57b1a615c39a9703a070;DOUBS;3998;25;Faits constatés;On delivery
+122;605c57b1a615c39a9703a071;DROME;4369;26;Faits constatés;On delivery
+123;605c57b1a615c39a9703a072;ESSONNE;3736;91;Faits constatés;On delivery
+124;605c57b1a615c39a9703a073;EURE;4266;27;Faits constatés;On delivery
+125;605c57b1a615c39a9703a074;EURE ET LOIR;4696;28;Faits constatés;On delivery
+126;605c57b1a615c39a9703a075;FINISTERE;4735;29;Faits constatés;On delivery
+127;605c57b1a615c39a9703a076;GARD;4158;30;Faits constatés;On delivery
+128;605c57b1a615c39a9703a077;GERS;3510;32;Faits constatés;On delivery
+129;605c57b1a615c39a9703a078;GIRONDE;4125;33;Faits constatés;On delivery
+130;605c57b1a615c39a9703a079;HAUT RHIN;4331;68;Faits constatés;On delivery
+131;605c57b1a615c39a9703a07a;HAUTE CORSE;4605;2B;Faits constatés;On delivery
+132;605c57b1a615c39a9703a07b;HAUTE GARONNE;3686;31;Faits constatés;On delivery
+133;605c57b1a615c39a9703a07c;HAUTE LOIRE;4838;43;Faits constatés;On delivery
+134;605c57b1a615c39a9703a07d;HAUTE MARNE;3755;52;Faits constatés;On delivery
+135;605c57b1a615c39a9703a07e;HAUTE SAONE;3632;70;Faits constatés;On delivery
+136;605c57b1a615c39a9703a07f;HAUTE SAVOIE;4365;74;Faits constatés;On delivery
+137;605c57b1a615c39a9703a080;HAUTE VIENNE;4729;87;Faits constatés;On delivery
+138;605c57b1a615c39a9703a081;HAUTES ALPES;3903;5;Faits constatés;On delivery
+139;605c57b1a615c39a9703a082;HAUTES PYRENEES;4988;65;Faits constatés;On delivery
+140;605c57b1a615c39a9703a083;HAUTS DE SEINE;4422;92;Faits constatés;On delivery
+141;605c57b1a615c39a9703a084;HERAULT;4121;34;Faits constatés;On delivery
+142;605c57b1a615c39a9703a085;ILLE ET VILAINE;4971;35;Faits constatés;On delivery
+143;605c57b1a615c39a9703a086;INDRE;4181;36;Faits constatés;On delivery
+144;605c57b1a615c39a9703a087;INDRE ET LOIRE;3594;37;Faits constatés;On delivery
+145;605c57b1a615c39a9703a088;ISERE;4164;38;Faits constatés;On delivery
+146;605c57b1a615c39a9703a089;JURA;4936;39;Faits constatés;On delivery
+147;605c57b1a615c39a9703a08a;LANDES;3954;40;Faits constatés;On delivery
+148;605c57b1a615c39a9703a08b;LOIR ET CHER;4110;41;Faits constatés;On delivery
+149;605c57b1a615c39a9703a08c;LOIRE;4034;42;Faits constatés;On delivery
+150;605c57b1a615c39a9703a08d;LOIRE ATLANTIQUE;4269;44;Faits constatés;On delivery
+151;605c57b1a615c39a9703a08e;LOIRET;4922;45;Faits constatés;On delivery
+152;605c57b1a615c39a9703a08f;LOT;3537;46;Faits constatés;On delivery
+153;605c57b1a615c39a9703a090;LOT ET GARONNE;4447;47;Faits constatés;On delivery
+154;605c57b1a615c39a9703a091;LOZERE;4330;48;Faits constatés;On delivery
+155;605c57b1a615c39a9703a092;MAINE ET LOIRE;4246;49;Faits constatés;On delivery
+156;605c57b1a615c39a9703a093;MANCHE;3953;50;Faits constatés;On delivery
+157;605c57b1a615c39a9703a094;MARNE;3597;51;Faits constatés;On delivery
+158;605c57b1a615c39a9703a095;MAYENNE;4980;53;Faits constatés;On delivery
+159;605c57b1a615c39a9703a096;MEURTHE ET MOSELLE;4782;54;Faits constatés;On delivery
+160;605c57b1a615c39a9703a097;MEUSE;4152;55;Faits constatés;On delivery
+161;605c57b1a615c39a9703a098;MORBIHAN;4297;56;Faits constatés;On delivery
+162;605c57b1a615c39a9703a099;MOSELLE;4792;57;Faits constatés;On delivery
+163;605c57b1a615c39a9703a09a;NIEVRE;3897;58;Faits constatés;On delivery
+164;605c57b1a615c39a9703a09b;NORD;4835;59;Faits constatés;On delivery
+165;605c57b1a615c39a9703a09c;OISE;3587;60;Faits constatés;On delivery
+166;605c57b1a615c39a9703a09d;ORNE;4315;61;Faits constatés;On delivery
+167;605c57b1a615c39a9703a09e;PARIS;4029;75;Faits constatés;On delivery
+168;605c57b1a615c39a9703a09f;PAS DE CALAIS;4794;62;Faits constatés;On delivery
+169;605c57b1a615c39a9703a0a0;PUY DE DOME;3577;63;Faits constatés;On delivery
+170;605c57b1a615c39a9703a0a1;PYRENEES ATLANTIQUES;4979;64;Faits constatés;On delivery
+171;605c57b1a615c39a9703a0a2;PYRENEES ORIENTALES;3709;66;Faits constatés;On delivery
+172;605c57b1a615c39a9703a0a3;RHONE;4265;69;Faits constatés;On delivery
+173;605c57b1a615c39a9703a0a4;SAONE ET LOIRE;4807;71;Faits constatés;On delivery
+174;605c57b1a615c39a9703a0a5;SARTHE;4580;72;Faits constatés;On delivery
+175;605c57b1a615c39a9703a0a6;SAVOIE;4125;73;Faits constatés;On delivery
+176;605c57b1a615c39a9703a0a7;SEINE ET MARNE;4394;77;Faits constatés;On delivery
+177;605c57b1a615c39a9703a0a8;SEINE MARITIME;4979;76;Faits constatés;On delivery
+178;605c57b1a615c39a9703a0a9;SEINE SAINT DENIS;4960;93;Faits constatés;On delivery
+179;605c57b1a615c39a9703a0aa;SOMME;4516;80;Faits constatés;On delivery
+180;605c57b1a615c39a9703a0ab;TARN;3785;81;Faits constatés;On delivery
+181;605c57b1a615c39a9703a0ac;TARN ET GARONNE;4847;82;Faits constatés;On delivery
+182;605c57b1a615c39a9703a0ad;TERRITOIRE DE BELFORT;4412;90;Faits constatés;On delivery
+183;605c57b1a615c39a9703a0ae;VAL D OISE;4907;95;Faits constatés;On delivery
+184;605c57b1a615c39a9703a0af;VAL DE MARNE;4794;94;Faits constatés;On delivery
+185;605c57b1a615c39a9703a0b0;VAR;3681;83;Faits constatés;On delivery
+186;605c57b1a615c39a9703a0b1;VAUCLUSE;4309;84;Faits constatés;On delivery
+187;605c57b1a615c39a9703a0b2;VENDEE;4562;85;Faits constatés;On delivery
+188;605c57b1a615c39a9703a0b3;VIENNE;4386;86;Faits constatés;On delivery
+189;605c57b1a615c39a9703a0b4;VOSGES;4662;88;Faits constatés;On delivery
+190;605c57b1a615c39a9703a0b5;YONNE;4710;89;Faits constatés;On delivery
+191;605c57b1a615c39a9703a0b6;YVELINES;4831;78;Faits constatés;On delivery
+96;605c57b1a615c39a9703a057;AIN;7287;1;Faits constatés;Delivered
+97;605c57b1a615c39a9703a058;AISNE;6577;2;Faits constatés;Delivered
+98;605c57b1a615c39a9703a059;ALLIER;7456;3;Faits constatés;Delivered
+99;605c57b1a615c39a9703a05a;ALPES DE HAUTE PROVENCE;7423;4;Faits constatés;Delivered
+100;605c57b1a615c39a9703a05b;ALPES MARITIMES;5799;6;Faits constatés;Delivered
+101;605c57b1a615c39a9703a05c;ARDECHE;7062;7;Faits constatés;Delivered
+102;605c57b1a615c39a9703a05d;ARDENNES;5733;8;Faits constatés;Delivered
+103;605c57b1a615c39a9703a05e;ARIEGE;7107;9;Faits constatés;Delivered
+104;605c57b1a615c39a9703a05f;AUBE;7635;10;Faits constatés;Delivered
+105;605c57b1a615c39a9703a060;AUDE;5174;11;Faits constatés;Delivered
+106;605c57b1a615c39a9703a061;AVEYRON;7729;12;Faits constatés;Delivered
+107;605c57b1a615c39a9703a062;BAS RHIN;7173;67;Faits constatés;Delivered
+108;605c57b1a615c39a9703a063;BOUCHES DU RHONE;7451;13;Faits constatés;Delivered
+109;605c57b1a615c39a9703a064;CALVADOS;7177;14;Faits constatés;Delivered
+110;605c57b1a615c39a9703a065;CANTAL;6191;15;Faits constatés;Delivered
+111;605c57b1a615c39a9703a066;CHARENTE;6801;16;Faits constatés;Delivered
+112;605c57b1a615c39a9703a067;CHARENTE MARITIME;6954;17;Faits constatés;Delivered
+113;605c57b1a615c39a9703a068;CHER;6585;18;Faits constatés;Delivered
+114;605c57b1a615c39a9703a069;CORREZE;5087;19;Faits constatés;Delivered
+115;605c57b1a615c39a9703a06a;CORSE DU SUD;6037;2A;Faits constatés;Delivered
+116;605c57b1a615c39a9703a06b;COTE D OR;7608;21;Faits constatés;Delivered
+117;605c57b1a615c39a9703a06c;COTES D ARMOR;5505;22;Faits constatés;Delivered
+118;605c57b1a615c39a9703a06d;CREUSE;7452;23;Faits constatés;Delivered
+119;605c57b1a615c39a9703a06e;DEUX SEVRES;7835;79;Faits constatés;Delivered
+120;605c57b1a615c39a9703a06f;DORDOGNE;6402;24;Faits constatés;Delivered
+121;605c57b1a615c39a9703a070;DOUBS;6208;25;Faits constatés;Delivered
+122;605c57b1a615c39a9703a071;DROME;5987;26;Faits constatés;Delivered
+123;605c57b1a615c39a9703a072;ESSONNE;7976;91;Faits constatés;Delivered
+124;605c57b1a615c39a9703a073;EURE;7450;27;Faits constatés;Delivered
+125;605c57b1a615c39a9703a074;EURE ET LOIR;5221;28;Faits constatés;Delivered
+126;605c57b1a615c39a9703a075;FINISTERE;5834;29;Faits constatés;Delivered
+127;605c57b1a615c39a9703a076;GARD;6372;30;Faits constatés;Delivered
+128;605c57b1a615c39a9703a077;GERS;5104;32;Faits constatés;Delivered
+129;605c57b1a615c39a9703a078;GIRONDE;5332;33;Faits constatés;Delivered
+130;605c57b1a615c39a9703a079;HAUT RHIN;7587;68;Faits constatés;Delivered
+131;605c57b1a615c39a9703a07a;HAUTE CORSE;7737;2B;Faits constatés;Delivered
+132;605c57b1a615c39a9703a07b;HAUTE GARONNE;6510;31;Faits constatés;Delivered
+133;605c57b1a615c39a9703a07c;HAUTE LOIRE;7777;43;Faits constatés;Delivered
+134;605c57b1a615c39a9703a07d;HAUTE MARNE;7554;52;Faits constatés;Delivered
+135;605c57b1a615c39a9703a07e;HAUTE SAONE;7190;70;Faits constatés;Delivered
+136;605c57b1a615c39a9703a07f;HAUTE SAVOIE;6374;74;Faits constatés;Delivered
+137;605c57b1a615c39a9703a080;HAUTE VIENNE;7421;87;Faits constatés;Delivered
+138;605c57b1a615c39a9703a081;HAUTES ALPES;7204;5;Faits constatés;Delivered
+139;605c57b1a615c39a9703a082;HAUTES PYRENEES;7625;65;Faits constatés;Delivered
+140;605c57b1a615c39a9703a083;HAUTS DE SEINE;7873;92;Faits constatés;Delivered
+141;605c57b1a615c39a9703a084;HERAULT;5830;34;Faits constatés;Delivered
+142;605c57b1a615c39a9703a085;ILLE ET VILAINE;7706;35;Faits constatés;Delivered
+143;605c57b1a615c39a9703a086;INDRE;7943;36;Faits constatés;Delivered
+144;605c57b1a615c39a9703a087;INDRE ET LOIRE;5971;37;Faits constatés;Delivered
+145;605c57b1a615c39a9703a088;ISERE;5639;38;Faits constatés;Delivered
+146;605c57b1a615c39a9703a089;JURA;5221;39;Faits constatés;Delivered
+147;605c57b1a615c39a9703a08a;LANDES;6939;40;Faits constatés;Delivered
+148;605c57b1a615c39a9703a08b;LOIR ET CHER;6369;41;Faits constatés;Delivered
+149;605c57b1a615c39a9703a08c;LOIRE;5639;42;Faits constatés;Delivered
+150;605c57b1a615c39a9703a08d;LOIRE ATLANTIQUE;7580;44;Faits constatés;Delivered
+151;605c57b1a615c39a9703a08e;LOIRET;5853;45;Faits constatés;Delivered
+152;605c57b1a615c39a9703a08f;LOT;5196;46;Faits constatés;Delivered
+153;605c57b1a615c39a9703a090;LOT ET GARONNE;5745;47;Faits constatés;Delivered
+154;605c57b1a615c39a9703a091;LOZERE;5930;48;Faits constatés;Delivered
+155;605c57b1a615c39a9703a092;MAINE ET LOIRE;6919;49;Faits constatés;Delivered
+156;605c57b1a615c39a9703a093;MANCHE;7018;50;Faits constatés;Delivered
+157;605c57b1a615c39a9703a094;MARNE;6351;51;Faits constatés;Delivered
+158;605c57b1a615c39a9703a095;MAYENNE;7813;53;Faits constatés;Delivered
+159;605c57b1a615c39a9703a096;MEURTHE ET MOSELLE;7143;54;Faits constatés;Delivered
+160;605c57b1a615c39a9703a097;MEUSE;5504;55;Faits constatés;Delivered
+161;605c57b1a615c39a9703a098;MORBIHAN;6135;56;Faits constatés;Delivered
+162;605c57b1a615c39a9703a099;MOSELLE;6458;57;Faits constatés;Delivered
+163;605c57b1a615c39a9703a09a;NIEVRE;7280;58;Faits constatés;Delivered
+164;605c57b1a615c39a9703a09b;NORD;6708;59;Faits constatés;Delivered
+165;605c57b1a615c39a9703a09c;OISE;7130;60;Faits constatés;Delivered
+166;605c57b1a615c39a9703a09d;ORNE;6131;61;Faits constatés;Delivered
+167;605c57b1a615c39a9703a09e;PARIS;5781;75;Faits constatés;Delivered
+168;605c57b1a615c39a9703a09f;PAS DE CALAIS;7040;62;Faits constatés;Delivered
+169;605c57b1a615c39a9703a0a0;PUY DE DOME;7137;63;Faits constatés;Delivered
+170;605c57b1a615c39a9703a0a1;PYRENEES ATLANTIQUES;7480;64;Faits constatés;Delivered
+171;605c57b1a615c39a9703a0a2;PYRENEES ORIENTALES;5170;66;Faits constatés;Delivered
+172;605c57b1a615c39a9703a0a3;RHONE;6187;69;Faits constatés;Delivered
+173;605c57b1a615c39a9703a0a4;SAONE ET LOIRE;5213;71;Faits constatés;Delivered
+174;605c57b1a615c39a9703a0a5;SARTHE;7163;72;Faits constatés;Delivered
+175;605c57b1a615c39a9703a0a6;SAVOIE;7223;73;Faits constatés;Delivered
+176;605c57b1a615c39a9703a0a7;SEINE ET MARNE;7124;77;Faits constatés;Delivered
+177;605c57b1a615c39a9703a0a8;SEINE MARITIME;7553;76;Faits constatés;Delivered
+178;605c57b1a615c39a9703a0a9;SEINE SAINT DENIS;7181;93;Faits constatés;Delivered
+179;605c57b1a615c39a9703a0aa;SOMME;6798;80;Faits constatés;Delivered
+180;605c57b1a615c39a9703a0ab;TARN;6552;81;Faits constatés;Delivered
+181;605c57b1a615c39a9703a0ac;TARN ET GARONNE;7854;82;Faits constatés;Delivered
+182;605c57b1a615c39a9703a0ad;TERRITOIRE DE BELFORT;6730;90;Faits constatés;Delivered
+183;605c57b1a615c39a9703a0ae;VAL D OISE;7762;95;Faits constatés;Delivered
+184;605c57b1a615c39a9703a0af;VAL DE MARNE;6162;94;Faits constatés;Delivered
+185;605c57b1a615c39a9703a0b0;VAR;7963;83;Faits constatés;Delivered
+186;605c57b1a615c39a9703a0b1;VAUCLUSE;7021;84;Faits constatés;Delivered
+187;605c57b1a615c39a9703a0b2;VENDEE;5504;85;Faits constatés;Delivered
+188;605c57b1a615c39a9703a0b3;VIENNE;5241;86;Faits constatés;Delivered
+189;605c57b1a615c39a9703a0b4;VOSGES;5371;88;Faits constatés;Delivered
+190;605c57b1a615c39a9703a0b5;YONNE;5934;89;Faits constatés;Delivered
+191;605c57b1a615c39a9703a0b6;YVELINES;7157;78;Faits constatés;Delivered

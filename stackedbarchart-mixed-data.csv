@@ -1,86 +1,86 @@
-breakdown,catégorie,fréquence,part,clients,pays,domain
-Par territoire,Agglo 1 2014,plusieurs fois/an,45,896,France,market-breakdown
-Par territoire,Agglo 1 2011,plusieurs fois/an,-50,1242,France,market-breakdown
-Par territoire,Agglo 2,plusieurs fois/an,49,131,France,market-breakdown
-Par territoire,Agglo 3,plusieurs fois/an,-51,110,France,market-breakdown
-Par territoire,Ville moyenne 2,plusieurs fois/an,-43,160,France,market-breakdown
-Par territoire,Ville moyenne 3,plusieurs fois/an,-37,103,France,market-breakdown
-Par territoire,Grande Ville 1,plusieurs fois/an,-47,181,France,market-breakdown
-Par territoire,Ville moyenne 4,plusieurs fois/an,44,153,France,market-breakdown
-Par territoire,Grande Ville 2,plusieurs fois/an,-39,47,France,market-breakdown
-Par age,18-24 ans 2014,plusieurs fois/an,45,896,France,market-breakdown
-Par age,18-24 ans 2011,plusieurs fois/an,50,1242,France,market-breakdown
-Par age,25-35 ans,plusieurs fois/an,28,37,France,market-breakdown
-Par age,36-45 ans,plusieurs fois/an,-41,239,France,market-breakdown
-Par age,46-55 ans,plusieurs fois/an,-39,44,France,market-breakdown
-Par age,56-65 ans,plusieurs fois/an,46,232,France,market-breakdown
-Par age,66 + ans,plusieurs fois/an,-54,241,France,market-breakdown
-Par age,moins de 18 ans,plusieurs fois/an,-61,103,France,market-breakdown
-Par territoire,Agglo 1 2014,1 fois/an,-35,896,France,market-breakdown
-Par territoire,Agglo 1 2011,1 fois/an,-28,1242,France,market-breakdown
-Par territoire,Agglo 2,1 fois/an,-32,131,France,market-breakdown
-Par territoire,Agglo 3,1 fois/an,-28,110,France,market-breakdown
-Par territoire,Ville moyenne 2,1 fois/an,-35,160,France,market-breakdown
-Par territoire,Ville moyenne 3,1 fois/an,-45,103,France,market-breakdown
-Par territoire,Grande Ville 1,1 fois/an,-35,181,France,market-breakdown
-Par territoire,Ville moyenne 4,1 fois/an,-33,153,France,market-breakdown
-Par territoire,Grande Ville 2,1 fois/an,-37,47,France,market-breakdown
-Par age,18-24 ans 2014,1 fois/an,-35,896,France,market-breakdown
-Par age,18-24 ans 2011,1 fois/an,-28,1242,France,market-breakdown
-Par age,25-35 ans,1 fois/an,41,37,France,market-breakdown
-Par age,36-45 ans,1 fois/an,-39,239,France,market-breakdown
-Par age,46-55 ans,1 fois/an,-33,44,France,market-breakdown
-Par age,56-65 ans,1 fois/an,-32,232,France,market-breakdown
-Par age,66 + ans,1 fois/an,-32,241,France,market-breakdown
-Par age,moins de 18 ans,1 fois/an,-26,103,France,market-breakdown
-Par territoire,Agglo 1 2014,moins souvent,-10,896,France,market-breakdown
-Par territoire,Agglo 1 2011,moins souvent,-10,1242,France,market-breakdown
-Par territoire,Agglo 2,moins souvent,-12,131,France,market-breakdown
-Par territoire,Agglo 3,moins souvent,-11,110,France,market-breakdown
-Par territoire,Ville moyenne 2,moins souvent,-9,160,France,market-breakdown
-Par territoire,Ville moyenne 3,moins souvent,12,103,France,market-breakdown
-Par territoire,Grande Ville 1,moins souvent,9,181,France,market-breakdown
-Par territoire,Ville moyenne 4,moins souvent,-11,153,France,market-breakdown
-Par territoire,Grande Ville 2,moins souvent,-3,47,France,market-breakdown
-Par age,18-24 ans 2014,moins souvent,10,896,France,market-breakdown
-Par age,18-24 ans 2011,moins souvent,-10,1242,France,market-breakdown
-Par age,25-35 ans,moins souvent,-23,37,France,market-breakdown
-Par age,36-45 ans,moins souvent,-9,239,France,market-breakdown
-Par age,46-55 ans,moins souvent,20,44,France,market-breakdown
-Par age,56-65 ans,moins souvent,8,232,France,market-breakdown
-Par age,66 + ans,moins souvent,-8,241,France,market-breakdown
-Par age,moins de 18 ans,moins souvent,-5,103,France,market-breakdown
-Par territoire,Agglo 1 2014,jamais,-1,896,France,market-breakdown
-Par territoire,Agglo 1 2011,jamais,-1,1242,France,market-breakdown
-Par territoire,Agglo 2,jamais,-1,131,France,market-breakdown
-Par territoire,Agglo 3,jamais,-2,110,France,market-breakdown
-Par territoire,Ville moyenne 2,jamais,-1,160,France,market-breakdown
-Par territoire,Ville moyenne 3,jamais,0,103,France,market-breakdown
-Par territoire,Grande Ville 1,jamais,-2,181,France,market-breakdown
-Par territoire,Ville moyenne 4,jamais,0,153,France,market-breakdown
-Par territoire,Grande Ville 2,jamais,-2,47,France,market-breakdown
-Par age,18-24 ans 2014,jamais,-1,896,France,market-breakdown
-Par age,18-24 ans 2011,jamais,-1,1242,France,market-breakdown
-Par age,25-35 ans,jamais,0,37,France,market-breakdown
-Par age,36-45 ans,jamais,0,239,France,market-breakdown
-Par age,46-55 ans,jamais,-4,44,France,market-breakdown
-Par age,56-65 ans,jamais,-2,232,France,market-breakdown
-Par age,66 + ans,jamais,0,241,France,market-breakdown
-Par age,moins de 18 ans,jamais,0,103,France,market-breakdown
-Par territoire,Agglo 1 2014,Au moins 1 fois/mois,-9,896,France,market-breakdown
-Par territoire,Agglo 1 2011,Au moins 1 fois/mois,11,1242,France,market-breakdown
-Par territoire,Agglo 2,Au moins 1 fois/mois,6,131,France,market-breakdown
-Par territoire,Agglo 3,Au moins 1 fois/mois,-8,110,France,market-breakdown
-Par territoire,Ville moyenne 2,Au moins 1 fois/mois,-12,160,France,market-breakdown
-Par territoire,Ville moyenne 3,Au moins 1 fois/mois,-6,103,France,market-breakdown
-Par territoire,Grande Ville 1,Au moins 1 fois/mois,-7,181,France,market-breakdown
-Par territoire,Ville moyenne 4,Au moins 1 fois/mois,-12,153,France,market-breakdown
-Par territoire,Grande Ville 2,Au moins 1 fois/mois,-19,47,France,market-breakdown
-Par age,18-24 ans 2014,Au moins 1 fois/mois,9,896,France,market-breakdown
-Par age,18-24 ans 2011,Au moins 1 fois/mois,11,1242,France,market-breakdown
-Par age,25-35 ans,Au moins 1 fois/mois,-8,37,France,market-breakdown
-Par age,36-45 ans,Au moins 1 fois/mois,-11,239,France,market-breakdown
-Par age,46-55 ans,Au moins 1 fois/mois,-4,44,France,market-breakdown
-Par age,56-65 ans,Au moins 1 fois/mois,-12,232,France,market-breakdown
-Par age,66 + ans,Au moins 1 fois/mois,6,241,France,market-breakdown
-Par age,moins de 18 ans,Au moins 1 fois/mois,8,103,France,market-breakdown
+;_id;breakdown;catégorie;fréquence;part;clients;pays;domain
+0;6149add5ac0103e25e9c016d;By territory;Agglo 1 2014;Multiple times/year;45;896;France;stackedbarchart-mixed-data
+1;6149add5ac0103e25e9c016e;By territory;Agglo 1 2011;Multiple times/year;-50;1242;France;stackedbarchart-mixed-data
+2;6149add5ac0103e25e9c016f;By territory;Agglo 2;Multiple times/year;49;131;France;stackedbarchart-mixed-data
+3;6149add5ac0103e25e9c0170;By territory;Agglo 3;Multiple times/year;-51;110;France;stackedbarchart-mixed-data
+4;6149add5ac0103e25e9c0171;By territory;Medium City 2;Multiple times/year;-43;160;France;stackedbarchart-mixed-data
+5;6149add5ac0103e25e9c0172;By territory;Medium City 3;Multiple times/year;-37;103;France;stackedbarchart-mixed-data
+6;6149add5ac0103e25e9c0173;By territory;Big City 1;Multiple times/year;-47;181;France;stackedbarchart-mixed-data
+7;6149add5ac0103e25e9c0174;By territory;Medium City 4;Multiple times/year;44;153;France;stackedbarchart-mixed-data
+8;6149add5ac0103e25e9c0175;By territory;Big City 2;Multiple times/year;-39;47;France;stackedbarchart-mixed-data
+9;6149add5ac0103e25e9c0176;By age;18-24 years 2014;Multiple times/year;45;896;France;stackedbarchart-mixed-data
+10;6149add5ac0103e25e9c0177;By age;18-24 years 2011;Multiple times/year;50;1242;France;stackedbarchart-mixed-data
+11;6149add5ac0103e25e9c0178;By age;25-35 years;Multiple times/year;28;37;France;stackedbarchart-mixed-data
+12;6149add5ac0103e25e9c0179;By age;36-45 years;Multiple times/year;-41;239;France;stackedbarchart-mixed-data
+13;6149add5ac0103e25e9c017a;By age;46-55 years;Multiple times/year;-39;44;France;stackedbarchart-mixed-data
+14;6149add5ac0103e25e9c017b;By age;56-65 years;Multiple times/year;46;232;France;stackedbarchart-mixed-data
+15;6149add5ac0103e25e9c017c;By age;66 + years;Multiple times/year;-54;241;France;stackedbarchart-mixed-data
+16;6149add5ac0103e25e9c017d;By age;< 18 years;Multiple times/year;-61;103;France;stackedbarchart-mixed-data
+17;6149add5ac0103e25e9c017e;By territory;Agglo 1 2014;1 time/year;-35;896;France;stackedbarchart-mixed-data
+18;6149add5ac0103e25e9c017f;By territory;Agglo 1 2011;1 time/year;-28;1242;France;stackedbarchart-mixed-data
+19;6149add5ac0103e25e9c0180;By territory;Agglo 2;1 time/year;-32;131;France;stackedbarchart-mixed-data
+20;6149add5ac0103e25e9c0181;By territory;Agglo 3;1 time/year;-28;110;France;stackedbarchart-mixed-data
+21;6149add5ac0103e25e9c0182;By territory;Medium City 2;1 time/year;-35;160;France;stackedbarchart-mixed-data
+22;6149add5ac0103e25e9c0183;By territory;Medium City 3;1 time/year;-45;103;France;stackedbarchart-mixed-data
+23;6149add5ac0103e25e9c0184;By territory;Big City 1;1 time/year;-35;181;France;stackedbarchart-mixed-data
+24;6149add5ac0103e25e9c0185;By territory;Medium City 4;1 time/year;-33;153;France;stackedbarchart-mixed-data
+25;6149add5ac0103e25e9c0186;By territory;Big City 2;1 time/year;-37;47;France;stackedbarchart-mixed-data
+26;6149add5ac0103e25e9c0187;By age;18-24 years 2014;1 time/year;-35;896;France;stackedbarchart-mixed-data
+27;6149add5ac0103e25e9c0188;By age;18-24 years 2011;1 time/year;-28;1242;France;stackedbarchart-mixed-data
+28;6149add5ac0103e25e9c0189;By age;25-35 years;1 time/year;41;37;France;stackedbarchart-mixed-data
+29;6149add5ac0103e25e9c018a;By age;36-45 years;1 time/year;-39;239;France;stackedbarchart-mixed-data
+30;6149add5ac0103e25e9c018b;By age;46-55 years;1 time/year;-33;44;France;stackedbarchart-mixed-data
+31;6149add5ac0103e25e9c018c;By age;56-65 years;1 time/year;-32;232;France;stackedbarchart-mixed-data
+32;6149add5ac0103e25e9c018d;By age;66 + years;1 time/year;-32;241;France;stackedbarchart-mixed-data
+33;6149add5ac0103e25e9c018e;By age;< 18 years;1 time/year;-26;103;France;stackedbarchart-mixed-data
+34;6149add5ac0103e25e9c018f;By territory;Agglo 1 2014;Less often;-10;896;France;stackedbarchart-mixed-data
+35;6149add5ac0103e25e9c0190;By territory;Agglo 1 2011;Less often;-10;1242;France;stackedbarchart-mixed-data
+36;6149add5ac0103e25e9c0191;By territory;Agglo 2;Less often;-12;131;France;stackedbarchart-mixed-data
+37;6149add5ac0103e25e9c0192;By territory;Agglo 3;Less often;-11;110;France;stackedbarchart-mixed-data
+38;6149add5ac0103e25e9c0193;By territory;Medium City 2;Less often;-9;160;France;stackedbarchart-mixed-data
+39;6149add5ac0103e25e9c0194;By territory;Medium City 3;Less often;12;103;France;stackedbarchart-mixed-data
+40;6149add5ac0103e25e9c0195;By territory;Big City 1;Less often;9;181;France;stackedbarchart-mixed-data
+41;6149add5ac0103e25e9c0196;By territory;Medium City 4;Less often;-11;153;France;stackedbarchart-mixed-data
+42;6149add5ac0103e25e9c0197;By territory;Big City 2;Less often;-3;47;France;stackedbarchart-mixed-data
+43;6149add5ac0103e25e9c0198;By age;18-24 years 2014;Less often;10;896;France;stackedbarchart-mixed-data
+44;6149add5ac0103e25e9c0199;By age;18-24 years 2011;Less often;-10;1242;France;stackedbarchart-mixed-data
+45;6149add5ac0103e25e9c019a;By age;25-35 years;Less often;-23;37;France;stackedbarchart-mixed-data
+46;6149add5ac0103e25e9c019b;By age;36-45 years;Less often;-9;239;France;stackedbarchart-mixed-data
+47;6149add5ac0103e25e9c019c;By age;46-55 years;Less often;20;44;France;stackedbarchart-mixed-data
+48;6149add5ac0103e25e9c019d;By age;56-65 years;Less often;8;232;France;stackedbarchart-mixed-data
+49;6149add5ac0103e25e9c019e;By age;66 + years;Less often;-8;241;France;stackedbarchart-mixed-data
+50;6149add5ac0103e25e9c019f;By age;< 18 years;Less often;-5;103;France;stackedbarchart-mixed-data
+51;6149add5ac0103e25e9c01a0;By territory;Agglo 1 2014;Never;-1;896;France;stackedbarchart-mixed-data
+52;6149add5ac0103e25e9c01a1;By territory;Agglo 1 2011;Never;-1;1242;France;stackedbarchart-mixed-data
+53;6149add5ac0103e25e9c01a2;By territory;Agglo 2;Never;-1;131;France;stackedbarchart-mixed-data
+54;6149add5ac0103e25e9c01a3;By territory;Agglo 3;Never;-2;110;France;stackedbarchart-mixed-data
+55;6149add5ac0103e25e9c01a4;By territory;Medium City 2;Never;-1;160;France;stackedbarchart-mixed-data
+56;6149add5ac0103e25e9c01a5;By territory;Medium City 3;Never;0;103;France;stackedbarchart-mixed-data
+57;6149add5ac0103e25e9c01a6;By territory;Big City 1;Never;-2;181;France;stackedbarchart-mixed-data
+58;6149add5ac0103e25e9c01a7;By territory;Medium City 4;Never;0;153;France;stackedbarchart-mixed-data
+59;6149add5ac0103e25e9c01a8;By territory;Big City 2;Never;-2;47;France;stackedbarchart-mixed-data
+60;6149add5ac0103e25e9c01a9;By age;18-24 years 2014;Never;-1;896;France;stackedbarchart-mixed-data
+61;6149add5ac0103e25e9c01aa;By age;18-24 years 2011;Never;-1;1242;France;stackedbarchart-mixed-data
+62;6149add5ac0103e25e9c01ab;By age;25-35 years;Never;0;37;France;stackedbarchart-mixed-data
+63;6149add5ac0103e25e9c01ac;By age;36-45 years;Never;0;239;France;stackedbarchart-mixed-data
+64;6149add5ac0103e25e9c01ad;By age;46-55 years;Never;-4;44;France;stackedbarchart-mixed-data
+65;6149add5ac0103e25e9c01ae;By age;56-65 years;Never;-2;232;France;stackedbarchart-mixed-data
+66;6149add5ac0103e25e9c01af;By age;66 + years;Never;0;241;France;stackedbarchart-mixed-data
+67;6149add5ac0103e25e9c01b0;By age;< 18 years;Never;0;103;France;stackedbarchart-mixed-data
+68;6149add5ac0103e25e9c01b1;By territory;Agglo 1 2014;At least 1 time/month;-9;896;France;stackedbarchart-mixed-data
+69;6149add5ac0103e25e9c01b2;By territory;Agglo 1 2011;At least 1 time/month;11;1242;France;stackedbarchart-mixed-data
+70;6149add5ac0103e25e9c01b3;By territory;Agglo 2;At least 1 time/month;6;131;France;stackedbarchart-mixed-data
+71;6149add5ac0103e25e9c01b4;By territory;Agglo 3;At least 1 time/month;-8;110;France;stackedbarchart-mixed-data
+72;6149add5ac0103e25e9c01b5;By territory;Medium City 2;At least 1 time/month;-12;160;France;stackedbarchart-mixed-data
+73;6149add5ac0103e25e9c01b6;By territory;Medium City 3;At least 1 time/month;-6;103;France;stackedbarchart-mixed-data
+74;6149add5ac0103e25e9c01b7;By territory;Big City 1;At least 1 time/month;-7;181;France;stackedbarchart-mixed-data
+75;6149add5ac0103e25e9c01b8;By territory;Medium City 4;At least 1 time/month;-12;153;France;stackedbarchart-mixed-data
+76;6149add5ac0103e25e9c01b9;By territory;Big City 2;At least 1 time/month;-19;47;France;stackedbarchart-mixed-data
+77;6149add5ac0103e25e9c01ba;By age;18-24 years 2014;At least 1 time/month;9;896;France;stackedbarchart-mixed-data
+78;6149add5ac0103e25e9c01bb;By age;18-24 years 2011;At least 1 time/month;11;1242;France;stackedbarchart-mixed-data
+79;6149add5ac0103e25e9c01bc;By age;25-35 years;At least 1 time/month;-8;37;France;stackedbarchart-mixed-data
+80;6149add5ac0103e25e9c01bd;By age;36-45 years;At least 1 time/month;-11;239;France;stackedbarchart-mixed-data
+81;6149add5ac0103e25e9c01be;By age;46-55 years;At least 1 time/month;-4;44;France;stackedbarchart-mixed-data
+82;6149add5ac0103e25e9c01bf;By age;56-65 years;At least 1 time/month;-12;232;France;stackedbarchart-mixed-data
+83;6149add5ac0103e25e9c01c0;By age;66 + years;At least 1 time/month;6;241;France;stackedbarchart-mixed-data
+84;6149add5ac0103e25e9c01c1;By age;< 18 years;At least 1 time/month;8;103;France;stackedbarchart-mixed-data

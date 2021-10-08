@@ -1,0 +1,7 @@
+;_id;packs;label;start_date;end_date;spent;budget;domain
+0;605c57aca615c39a97037527;HARBOR 1;Vessel 1;01/01/2021 00:00;02/01/2021 00:00;31;17;gantt_data_simple
+1;605c57aca615c39a97037528;HARBOR 1;Vessel 1;05/01/2021 00:00;08/01/2021 00:00;18;32;gantt_data_simple
+2;605c57aca615c39a97037529;HARBOR 1;Vessel 2;01/01/2021 00:00;02/01/2021 00:00;39;39;gantt_data_simple
+3;605c57aca615c39a9703752a;HARBOR 1;Vessel 2;05/01/2021 00:00;08/01/2021 00:00;26;46;gantt_data_simple
+4;605c57aca615c39a9703752b;HARBOR 2;Vessel 3;06/01/2021 00:00;09/01/2021 00:00;34;43;gantt_data_simple
+5;605c57aca615c39a9703752c;HARBOR 2;Vessel 3;07/01/2021 00:00;10/01/2021 00:00;36;23;gantt_data_simple

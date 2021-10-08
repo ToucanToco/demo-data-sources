@@ -1,0 +1,325 @@
+;_id;Sport;value;Type;Niveau;years;Sexe;Unnamed: 6;Unnamed: 7;Unnamed: 8;domain
+0;6149ad96ac0103e25e9bc7db;Tennis;73;Single;Recreational;<15 years;All;;;;filter_3
+1;6149ad96ac0103e25e9bc7dc;Tennis;92;Single;Intermediate;<15 years;All;;;;filter_3
+2;6149ad96ac0103e25e9bc7dd;Tennis;46;Single;Professional;<15 years;All;;;;filter_3
+3;6149ad96ac0103e25e9bc7de;Tennis;72;Single;Recreational;<30 years ;All;;;;filter_3
+4;6149ad96ac0103e25e9bc7df;Tennis;109;Single;Intermediate;<30 years ;All;;;;filter_3
+5;6149ad96ac0103e25e9bc7e0;Tennis;108;Single;Professional;<30 years ;All;;;;filter_3
+6;6149ad96ac0103e25e9bc7e1;Tennis;31;Single;Recreational;< 50 years;All;;;;filter_3
+7;6149ad96ac0103e25e9bc7e2;Tennis;83;Single;Intermediate;< 50 years;All;;;;filter_3
+8;6149ad96ac0103e25e9bc7e3;Tennis;121;Single;Professional;< 50 years;All;;;;filter_3
+9;6149ad96ac0103e25e9bc7e4;Tennis;131;Single;Recreational;> 50 years;All;;;;filter_3
+10;6149ad96ac0103e25e9bc7e5;Tennis;84;Single;Intermediate;> 50 years;All;;;;filter_3
+11;6149ad96ac0103e25e9bc7e6;Tennis;83;Single;Professional;> 50 years;All;;;;filter_3
+12;6149ad96ac0103e25e9bc7e7;Boxing;73;Single;Recreational;<15 years;All;;;;filter_3
+13;6149ad96ac0103e25e9bc7e8;Boxing;29;Single;Intermediate;<15 years;All;;;;filter_3
+14;6149ad96ac0103e25e9bc7e9;Boxing;49;Single;Professional;<15 years;All;;;;filter_3
+15;6149ad96ac0103e25e9bc7ea;Boxing;39;Single;Recreational;<30 years ;All;;;;filter_3
+16;6149ad96ac0103e25e9bc7eb;Boxing;128;Single;Intermediate;<30 years ;All;;;;filter_3
+17;6149ad96ac0103e25e9bc7ec;Boxing;108;Single;Professional;<30 years ;All;;;;filter_3
+18;6149ad96ac0103e25e9bc7ed;Boxing;75;Single;Recreational;< 50 years;All;;;;filter_3
+19;6149ad96ac0103e25e9bc7ee;Boxing;138;Single;Intermediate;< 50 years;All;;;;filter_3
+20;6149ad96ac0103e25e9bc7ef;Boxing;19;Single;Professional;< 50 years;All;;;;filter_3
+21;6149ad96ac0103e25e9bc7f0;Boxing;55;Single;Recreational;> 50 years;All;;;;filter_3
+22;6149ad96ac0103e25e9bc7f1;Boxing;95;Single;Intermediate;> 50 years;All;;;;filter_3
+23;6149ad96ac0103e25e9bc7f2;Boxing;135;Single;Professional;> 50 years;All;;;;filter_3
+24;6149ad96ac0103e25e9bc7f3;Swimming;60;Single;Recreational;<15 years;All;;;;filter_3
+25;6149ad96ac0103e25e9bc7f4;Swimming;132;Single;Intermediate;<15 years;All;;;;filter_3
+26;6149ad96ac0103e25e9bc7f5;Swimming;77;Single;Professional;<15 years;All;;;;filter_3
+27;6149ad96ac0103e25e9bc7f6;Swimming;140;Single;Recreational;<30 years ;All;;;;filter_3
+28;6149ad96ac0103e25e9bc7f7;Swimming;111;Single;Intermediate;<30 years ;All;;;;filter_3
+29;6149ad96ac0103e25e9bc7f8;Swimming;126;Single;Professional;<30 years ;All;;;v;filter_3
+30;6149ad96ac0103e25e9bc7f9;Swimming;48;Single;Recreational;< 50 years;All;;;;filter_3
+31;6149ad96ac0103e25e9bc7fa;Swimming;60;Single;Intermediate;< 50 years;All;;;;filter_3
+32;6149ad96ac0103e25e9bc7fb;Swimming;10;Single;Professional;< 50 years;All;;;;filter_3
+33;6149ad96ac0103e25e9bc7fc;Swimming;71;Single;Recreational;> 50 years;All;;;;filter_3
+34;6149ad96ac0103e25e9bc7fd;Swimming;139;Single;Intermediate;> 50 years;All;;;;filter_3
+35;6149ad96ac0103e25e9bc7fe;Swimming;17;Single;Professional;> 50 years;All;;;;filter_3
+36;6149ad96ac0103e25e9bc7ff;Athletics;31;Single;Recreational;<15 years;All;;;;filter_3
+37;6149ad96ac0103e25e9bc800;Athletics;99;Single;Intermediate;<15 years;All;;;;filter_3
+38;6149ad96ac0103e25e9bc801;Athletics;60;Single;Professional;<15 years;All;;;;filter_3
+39;6149ad96ac0103e25e9bc802;Athletics;21;Single;Recreational;<30 years ;All;;;;filter_3
+40;6149ad96ac0103e25e9bc803;Athletics;94;Single;Intermediate;<30 years ;All;;;;filter_3
+41;6149ad96ac0103e25e9bc804;Athletics;108;Single;Professional;<30 years ;All;;;;filter_3
+42;6149ad96ac0103e25e9bc805;Athletics;49;Single;Recreational;< 50 years;All;;;;filter_3
+43;6149ad96ac0103e25e9bc806;Athletics;102;Single;Intermediate;< 50 years;All;;;;filter_3
+44;6149ad96ac0103e25e9bc807;Athletics;135;Single;Professional;< 50 years;All;;;;filter_3
+45;6149ad96ac0103e25e9bc808;Athletics;41;Single;Recreational;> 50 years;All;;;;filter_3
+46;6149ad96ac0103e25e9bc809;Athletics;68;Single;Intermediate;> 50 years;All;;;;filter_3
+47;6149ad96ac0103e25e9bc80a;Athletics;77;Single;Professional;> 50 years;All;;;;filter_3
+48;6149ad96ac0103e25e9bc80b;Cycling;117;Single;Recreational;<15 years;All;;;;filter_3
+49;6149ad96ac0103e25e9bc80c;Cycling;121;Single;Intermediate;<15 years;All;;;;filter_3
+50;6149ad96ac0103e25e9bc80d;Cycling;47;Single;Professional;<15 years;All;;;;filter_3
+51;6149ad96ac0103e25e9bc80e;Cycling;119;Single;Recreational;<30 years ;All;;;;filter_3
+52;6149ad96ac0103e25e9bc80f;Cycling;27;Single;Intermediate;<30 years ;All;;;;filter_3
+53;6149ad96ac0103e25e9bc810;Cycling;45;Single;Professional;<30 years ;All;;;;filter_3
+54;6149ad96ac0103e25e9bc811;Cycling;16;Single;Recreational;< 50 years;All;;;;filter_3
+55;6149ad96ac0103e25e9bc812;Cycling;87;Single;Intermediate;< 50 years;All;;;;filter_3
+56;6149ad96ac0103e25e9bc813;Cycling;130;Single;Professional;< 50 years;All;;;;filter_3
+57;6149ad96ac0103e25e9bc814;Cycling;114;Single;Recreational;> 50 years;All;;;;filter_3
+58;6149ad96ac0103e25e9bc815;Cycling;127;Single;Intermediate;> 50 years;All;;;;filter_3
+59;6149ad96ac0103e25e9bc816;Cycling;111;Single;Professional;> 50 years;All;;;;filter_3
+60;6149ad96ac0103e25e9bc817;Basketball;45;Team;Recreational;<15 years;All;;;;filter_3
+61;6149ad96ac0103e25e9bc818;Basketball;23;Team;Intermediate;<15 years;All;;;;filter_3
+62;6149ad96ac0103e25e9bc819;Basketball;57;Team;Professional;<15 years;All;;;;filter_3
+63;6149ad96ac0103e25e9bc81a;Basketball;90;Team;Recreational;<30 years ;All;;;;filter_3
+64;6149ad96ac0103e25e9bc81b;Basketball;98;Team;Intermediate;<30 years ;All;;;;filter_3
+65;6149ad96ac0103e25e9bc81c;Basketball;76;Team;Professional;<30 years ;All;;;;filter_3
+66;6149ad96ac0103e25e9bc81d;Basketball;133;Team;Recreational;< 50 years;All;;;;filter_3
+67;6149ad96ac0103e25e9bc81e;Basketball;88;Team;Intermediate;< 50 years;All;;;;filter_3
+68;6149ad96ac0103e25e9bc81f;Basketball;77;Team;Professional;< 50 years;All;;;;filter_3
+69;6149ad96ac0103e25e9bc820;Basketball;77;Team;Recreational;> 50 years;All;;;;filter_3
+70;6149ad96ac0103e25e9bc821;Basketball;83;Team;Intermediate;> 50 years;All;;;;filter_3
+71;6149ad96ac0103e25e9bc822;Basketball;46;Team;Professional;> 50 years;All;;;;filter_3
+72;6149ad96ac0103e25e9bc823;Football;16;Team;Recreational;<15 years;All;;;;filter_3
+73;6149ad96ac0103e25e9bc824;Football;99;Team;Intermediate;<15 years;All;;;;filter_3
+74;6149ad96ac0103e25e9bc825;Football;77;Team;Professional;<15 years;All;;;;filter_3
+75;6149ad96ac0103e25e9bc826;Football;16;Team;Recreational;<30 years ;All;;;;filter_3
+76;6149ad96ac0103e25e9bc827;Football;112;Team;Intermediate;<30 years ;All;;;;filter_3
+77;6149ad96ac0103e25e9bc828;Football;114;Team;Professional;<30 years ;All;;;;filter_3
+78;6149ad96ac0103e25e9bc829;Football;60;Team;Recreational;< 50 years;All;;;;filter_3
+79;6149ad96ac0103e25e9bc82a;Football;28;Team;Intermediate;< 50 years;All;;;;filter_3
+80;6149ad96ac0103e25e9bc82b;Football;119;Team;Professional;< 50 years;All;;;;filter_3
+81;6149ad96ac0103e25e9bc82c;Football;97;Team;Recreational;> 50 years;All;;;;filter_3
+82;6149ad96ac0103e25e9bc82d;Football;114;Team;Intermediate;> 50 years;All;;;;filter_3
+83;6149ad96ac0103e25e9bc82e;Football;77;Team;Professional;> 50 years;All;;;;filter_3
+84;6149ad96ac0103e25e9bc82f;Rugby;16;Team;Recreational;<15 years;All;;;;filter_3
+85;6149ad96ac0103e25e9bc830;Rugby;133;Team;Intermediate;<15 years;All;;;;filter_3
+86;6149ad96ac0103e25e9bc831;Rugby;119;Team;Professional;<15 years;All;;;;filter_3
+87;6149ad96ac0103e25e9bc832;Rugby;40;Team;Recreational;<30 years ;All;;;;filter_3
+88;6149ad96ac0103e25e9bc833;Rugby;58;Team;Intermediate;<30 years ;All;;;;filter_3
+89;6149ad96ac0103e25e9bc834;Rugby;10;Team;Professional;<30 years ;All;;;;filter_3
+90;6149ad96ac0103e25e9bc835;Rugby;18;Team;Recreational;< 50 years;All;;;;filter_3
+91;6149ad96ac0103e25e9bc836;Rugby;44;Team;Intermediate;< 50 years;All;;;;filter_3
+92;6149ad96ac0103e25e9bc837;Rugby;72;Team;Professional;< 50 years;All;;;;filter_3
+93;6149ad96ac0103e25e9bc838;Rugby;116;Team;Recreational;> 50 years;All;;;;filter_3
+94;6149ad96ac0103e25e9bc839;Rugby;139;Team;Intermediate;> 50 years;All;;;;filter_3
+95;6149ad96ac0103e25e9bc83a;Rugby;101;Team;Professional;> 50 years;All;;;;filter_3
+96;6149ad96ac0103e25e9bc83b;Handball;59;Team;Recreational;<15 years;All;;;;filter_3
+97;6149ad96ac0103e25e9bc83c;Handball;73;Team;Intermediate;<15 years;All;;;;filter_3
+98;6149ad96ac0103e25e9bc83d;Handball;37;Team;Professional;<15 years;All;;;;filter_3
+99;6149ad96ac0103e25e9bc83e;Handball;62;Team;Recreational;<30 years ;All;;;;filter_3
+100;6149ad96ac0103e25e9bc83f;Handball;44;Team;Intermediate;<30 years ;All;;;;filter_3
+101;6149ad96ac0103e25e9bc840;Handball;85;Team;Professional;<30 years ;All;;;;filter_3
+102;6149ad96ac0103e25e9bc841;Handball;81;Team;Recreational;< 50 years;All;;;;filter_3
+103;6149ad96ac0103e25e9bc842;Handball;107;Team;Intermediate;< 50 years;All;;;;filter_3
+104;6149ad96ac0103e25e9bc843;Handball;112;Team;Professional;< 50 years;All;;;;filter_3
+105;6149ad96ac0103e25e9bc844;Handball;79;Team;Recreational;> 50 years;All;;;;filter_3
+106;6149ad96ac0103e25e9bc845;Handball;30;Team;Intermediate;> 50 years;All;;;;filter_3
+107;6149ad96ac0103e25e9bc846;Handball;62;Team;Professional;> 50 years;All;;;;filter_3
+108;6149ad96ac0103e25e9bc847;Tennis;43;Single;Recreational;<15 years;Female;;;;filter_3
+109;6149ad96ac0103e25e9bc848;Tennis;42;Single;Intermediate;<15 years;Female;;;;filter_3
+110;6149ad96ac0103e25e9bc849;Tennis;56;Single;Professional;<15 years;Female;;;;filter_3
+111;6149ad96ac0103e25e9bc84a;Tennis;75;Single;Recreational;<30 years ;Female;;;;filter_3
+112;6149ad96ac0103e25e9bc84b;Tennis;47;Single;Intermediate;<30 years ;Female;;;;filter_3
+113;6149ad96ac0103e25e9bc84c;Tennis;53;Single;Professional;<30 years ;Female;;;;filter_3
+114;6149ad96ac0103e25e9bc84d;Tennis;46;Single;Recreational;< 50 years;Female;;;;filter_3
+115;6149ad96ac0103e25e9bc84e;Tennis;31;Single;Intermediate;< 50 years;Female;;;;filter_3
+116;6149ad96ac0103e25e9bc84f;Tennis;32;Single;Professional;< 50 years;Female;;;;filter_3
+117;6149ad96ac0103e25e9bc850;Tennis;66;Single;Recreational;> 50 years;Female;;;;filter_3
+118;6149ad96ac0103e25e9bc851;Tennis;41;Single;Intermediate;> 50 years;Female;;;;filter_3
+119;6149ad96ac0103e25e9bc852;Tennis;62;Single;Professional;> 50 years;Female;;;;filter_3
+120;6149ad96ac0103e25e9bc853;Boxing;31;Single;Recreational;<15 years;Female;;;;filter_3
+121;6149ad96ac0103e25e9bc854;Boxing;25;Single;Intermediate;<15 years;Female;;;;filter_3
+122;6149ad96ac0103e25e9bc855;Boxing;76;Single;Professional;<15 years;Female;;;;filter_3
+123;6149ad96ac0103e25e9bc856;Boxing;29;Single;Recreational;<30 years ;Female;;;;filter_3
+124;6149ad96ac0103e25e9bc857;Boxing;29;Single;Intermediate;<30 years ;Female;;;;filter_3
+125;6149ad96ac0103e25e9bc858;Boxing;56;Single;Professional;<30 years ;Female;;;;filter_3
+126;6149ad96ac0103e25e9bc859;Boxing;70;Single;Recreational;< 50 years;Female;;;;filter_3
+127;6149ad96ac0103e25e9bc85a;Boxing;29;Single;Intermediate;< 50 years;Female;;;;filter_3
+128;6149ad96ac0103e25e9bc85b;Boxing;62;Single;Professional;< 50 years;Female;;;;filter_3
+129;6149ad96ac0103e25e9bc85c;Boxing;29;Single;Recreational;> 50 years;Female;;;;filter_3
+130;6149ad96ac0103e25e9bc85d;Boxing;38;Single;Intermediate;> 50 years;Female;;;;filter_3
+131;6149ad96ac0103e25e9bc85e;Boxing;43;Single;Professional;> 50 years;Female;;;;filter_3
+132;6149ad96ac0103e25e9bc85f;Swimming;26;Single;Recreational;<15 years;Female;;;;filter_3
+133;6149ad96ac0103e25e9bc860;Swimming;71;Single;Intermediate;<15 years;Female;;;;filter_3
+134;6149ad96ac0103e25e9bc861;Swimming;27;Single;Professional;<15 years;Female;;;;filter_3
+135;6149ad96ac0103e25e9bc862;Swimming;32;Single;Recreational;<30 years ;Female;;;;filter_3
+136;6149ad96ac0103e25e9bc863;Swimming;26;Single;Intermediate;<30 years ;Female;;;;filter_3
+137;6149ad96ac0103e25e9bc864;Swimming;79;Single;Professional;<30 years ;Female;;;;filter_3
+138;6149ad96ac0103e25e9bc865;Swimming;22;Single;Recreational;< 50 years;Female;;;;filter_3
+139;6149ad96ac0103e25e9bc866;Swimming;47;Single;Intermediate;< 50 years;Female;;;;filter_3
+140;6149ad96ac0103e25e9bc867;Swimming;35;Single;Professional;< 50 years;Female;;;;filter_3
+141;6149ad96ac0103e25e9bc868;Swimming;61;Single;Recreational;> 50 years;Female;;;;filter_3
+142;6149ad96ac0103e25e9bc869;Swimming;67;Single;Intermediate;> 50 years;Female;;;;filter_3
+143;6149ad96ac0103e25e9bc86a;Swimming;42;Single;Professional;> 50 years;Female;;;;filter_3
+144;6149ad96ac0103e25e9bc86b;Athletics;50;Single;Recreational;<15 years;Female;;;;filter_3
+145;6149ad96ac0103e25e9bc86c;Athletics;65;Single;Intermediate;<15 years;Female;;;;filter_3
+146;6149ad96ac0103e25e9bc86d;Athletics;66;Single;Professional;<15 years;Female;;;;filter_3
+147;6149ad96ac0103e25e9bc86e;Athletics;74;Single;Recreational;<30 years ;Female;;;;filter_3
+148;6149ad96ac0103e25e9bc86f;Athletics;40;Single;Intermediate;<30 years ;Female;;;;filter_3
+149;6149ad96ac0103e25e9bc870;Athletics;57;Single;Professional;<30 years ;Female;;;;filter_3
+150;6149ad96ac0103e25e9bc871;Athletics;25;Single;Recreational;< 50 years;Female;;;;filter_3
+151;6149ad96ac0103e25e9bc872;Athletics;67;Single;Intermediate;< 50 years;Female;;;;filter_3
+152;6149ad96ac0103e25e9bc873;Athletics;79;Single;Professional;< 50 years;Female;;;;filter_3
+153;6149ad96ac0103e25e9bc874;Athletics;35;Single;Recreational;> 50 years;Female;;;;filter_3
+154;6149ad96ac0103e25e9bc875;Athletics;54;Single;Intermediate;> 50 years;Female;;;;filter_3
+155;6149ad96ac0103e25e9bc876;Athletics;52;Single;Professional;> 50 years;Female;;;;filter_3
+156;6149ad96ac0103e25e9bc877;Cycling;23;Single;Recreational;<15 years;Female;;;;filter_3
+157;6149ad96ac0103e25e9bc878;Cycling;75;Single;Intermediate;<15 years;Female;;;;filter_3
+158;6149ad96ac0103e25e9bc879;Cycling;53;Single;Professional;<15 years;Female;;;;filter_3
+159;6149ad96ac0103e25e9bc87a;Cycling;74;Single;Recreational;<30 years ;Female;;;;filter_3
+160;6149ad96ac0103e25e9bc87b;Cycling;51;Single;Intermediate;<30 years ;Female;;;;filter_3
+161;6149ad96ac0103e25e9bc87c;Cycling;72;Single;Professional;<30 years ;Female;;;;filter_3
+162;6149ad96ac0103e25e9bc87d;Cycling;29;Single;Recreational;< 50 years;Female;;;;filter_3
+163;6149ad96ac0103e25e9bc87e;Cycling;78;Single;Intermediate;< 50 years;Female;;;;filter_3
+164;6149ad96ac0103e25e9bc87f;Cycling;49;Single;Professional;< 50 years;Female;;;;filter_3
+165;6149ad96ac0103e25e9bc880;Cycling;67;Single;Recreational;> 50 years;Female;;;;filter_3
+166;6149ad96ac0103e25e9bc881;Cycling;55;Single;Intermediate;> 50 years;Female;;;;filter_3
+167;6149ad96ac0103e25e9bc882;Cycling;41;Single;Professional;> 50 years;Female;;;;filter_3
+168;6149ad96ac0103e25e9bc883;Basketball;37;Team;Recreational;<15 years;Female;;;;filter_3
+169;6149ad96ac0103e25e9bc884;Basketball;22;Team;Intermediate;<15 years;Female;;;;filter_3
+170;6149ad96ac0103e25e9bc885;Basketball;46;Team;Professional;<15 years;Female;;;;filter_3
+171;6149ad96ac0103e25e9bc886;Basketball;40;Team;Recreational;<30 years ;Female;;;;filter_3
+172;6149ad96ac0103e25e9bc887;Basketball;32;Team;Intermediate;<30 years ;Female;;;;filter_3
+173;6149ad96ac0103e25e9bc888;Basketball;32;Team;Professional;<30 years ;Female;;;;filter_3
+174;6149ad96ac0103e25e9bc889;Basketball;38;Team;Recreational;< 50 years;Female;;;;filter_3
+175;6149ad96ac0103e25e9bc88a;Basketball;63;Team;Intermediate;< 50 years;Female;;;;filter_3
+176;6149ad96ac0103e25e9bc88b;Basketball;42;Team;Professional;< 50 years;Female;;;;filter_3
+177;6149ad96ac0103e25e9bc88c;Basketball;52;Team;Recreational;> 50 years;Female;;;;filter_3
+178;6149ad96ac0103e25e9bc88d;Basketball;30;Team;Intermediate;> 50 years;Female;;;;filter_3
+179;6149ad96ac0103e25e9bc88e;Basketball;56;Team;Professional;> 50 years;Female;;;;filter_3
+180;6149ad96ac0103e25e9bc88f;Football;69;Team;Recreational;<15 years;Female;;;;filter_3
+181;6149ad96ac0103e25e9bc890;Football;38;Team;Intermediate;<15 years;Female;;;;filter_3
+182;6149ad96ac0103e25e9bc891;Football;79;Team;Professional;<15 years;Female;;;;filter_3
+183;6149ad96ac0103e25e9bc892;Football;53;Team;Recreational;<30 years ;Female;;;;filter_3
+184;6149ad96ac0103e25e9bc893;Football;79;Team;Intermediate;<30 years ;Female;;;;filter_3
+185;6149ad96ac0103e25e9bc894;Football;62;Team;Professional;<30 years ;Female;;;;filter_3
+186;6149ad96ac0103e25e9bc895;Football;63;Team;Recreational;< 50 years;Female;;;;filter_3
+187;6149ad96ac0103e25e9bc896;Football;77;Team;Intermediate;< 50 years;Female;;;;filter_3
+188;6149ad96ac0103e25e9bc897;Football;50;Team;Professional;< 50 years;Female;;;;filter_3
+189;6149ad96ac0103e25e9bc898;Football;41;Team;Recreational;> 50 years;Female;;;;filter_3
+190;6149ad96ac0103e25e9bc899;Football;32;Team;Intermediate;> 50 years;Female;;;;filter_3
+191;6149ad96ac0103e25e9bc89a;Football;79;Team;Professional;> 50 years;Female;;;;filter_3
+192;6149ad96ac0103e25e9bc89b;Rugby;39;Team;Recreational;<15 years;Female;;;;filter_3
+193;6149ad96ac0103e25e9bc89c;Rugby;58;Team;Intermediate;<15 years;Female;;;;filter_3
+194;6149ad96ac0103e25e9bc89d;Rugby;76;Team;Professional;<15 years;Female;;;;filter_3
+195;6149ad96ac0103e25e9bc89e;Rugby;44;Team;Recreational;<30 years ;Female;;;;filter_3
+196;6149ad96ac0103e25e9bc89f;Rugby;54;Team;Intermediate;<30 years ;Female;;;;filter_3
+197;6149ad96ac0103e25e9bc8a0;Rugby;53;Team;Professional;<30 years ;Female;;;;filter_3
+198;6149ad96ac0103e25e9bc8a1;Rugby;71;Team;Recreational;< 50 years;Female;;;;filter_3
+199;6149ad96ac0103e25e9bc8a2;Rugby;72;Team;Intermediate;< 50 years;Female;;;;filter_3
+200;6149ad96ac0103e25e9bc8a3;Rugby;66;Team;Professional;< 50 years;Female;;;;filter_3
+201;6149ad96ac0103e25e9bc8a4;Rugby;24;Team;Recreational;> 50 years;Female;;;;filter_3
+202;6149ad96ac0103e25e9bc8a5;Rugby;48;Team;Intermediate;> 50 years;Female;;;;filter_3
+203;6149ad96ac0103e25e9bc8a6;Rugby;61;Team;Professional;> 50 years;Female;;;;filter_3
+204;6149ad96ac0103e25e9bc8a7;Handball;77;Team;Recreational;<15 years;Female;;;;filter_3
+205;6149ad96ac0103e25e9bc8a8;Handball;52;Team;Intermediate;<15 years;Female;;;;filter_3
+206;6149ad96ac0103e25e9bc8a9;Handball;26;Team;Professional;<15 years;Female;;;;filter_3
+207;6149ad96ac0103e25e9bc8aa;Handball;24;Team;Recreational;<30 years ;Female;;;;filter_3
+208;6149ad96ac0103e25e9bc8ab;Handball;62;Team;Intermediate;<30 years ;Female;;;;filter_3
+209;6149ad96ac0103e25e9bc8ac;Handball;67;Team;Professional;<30 years ;Female;;;;filter_3
+210;6149ad96ac0103e25e9bc8ad;Handball;24;Team;Recreational;< 50 years;Female;;;;filter_3
+211;6149ad96ac0103e25e9bc8ae;Handball;28;Team;Intermediate;< 50 years;Female;;;;filter_3
+212;6149ad96ac0103e25e9bc8af;Handball;56;Team;Professional;< 50 years;Female;;;;filter_3
+213;6149ad96ac0103e25e9bc8b0;Handball;76;Team;Recreational;> 50 years;Female;;;;filter_3
+214;6149ad96ac0103e25e9bc8b1;Handball;71;Team;Intermediate;> 50 years;Female;;;;filter_3
+215;6149ad96ac0103e25e9bc8b2;Handball;33;Team;Professional;> 50 years;Female;;;;filter_3
+216;6149ad96ac0103e25e9bc8b3;Tennis;13;Single;Recreational;<15 years;Male;;;;filter_3
+217;6149ad96ac0103e25e9bc8b4;Tennis;27;Single;Intermediate;<15 years;Male;;;;filter_3
+218;6149ad96ac0103e25e9bc8b5;Tennis;12;Single;Professional;<15 years;Male;;;;filter_3
+219;6149ad96ac0103e25e9bc8b6;Tennis;25;Single;Recreational;<30 years ;Male;;;;filter_3
+220;6149ad96ac0103e25e9bc8b7;Tennis;35;Single;Intermediate;<30 years ;Male;;;;filter_3
+221;6149ad96ac0103e25e9bc8b8;Tennis;13;Single;Professional;<30 years ;Male;;;;filter_3
+222;6149ad96ac0103e25e9bc8b9;Tennis;36;Single;Recreational;< 50 years;Male;;;;filter_3
+223;6149ad96ac0103e25e9bc8ba;Tennis;38;Single;Intermediate;< 50 years;Male;;;;filter_3
+224;6149ad96ac0103e25e9bc8bb;Tennis;11;Single;Professional;< 50 years;Male;;;;filter_3
+225;6149ad96ac0103e25e9bc8bc;Tennis;21;Single;Recreational;> 50 years;Male;;;;filter_3
+226;6149ad96ac0103e25e9bc8bd;Tennis;21;Single;Intermediate;> 50 years;Male;;;;filter_3
+227;6149ad96ac0103e25e9bc8be;Tennis;18;Single;Professional;> 50 years;Male;;;;filter_3
+228;6149ad96ac0103e25e9bc8bf;Boxing;34;Single;Recreational;<15 years;Male;;;;filter_3
+229;6149ad96ac0103e25e9bc8c0;Boxing;29;Single;Intermediate;<15 years;Male;;;;filter_3
+230;6149ad96ac0103e25e9bc8c1;Boxing;19;Single;Professional;<15 years;Male;;;;filter_3
+231;6149ad96ac0103e25e9bc8c2;Boxing;13;Single;Recreational;<30 years ;Male;;;;filter_3
+232;6149ad96ac0103e25e9bc8c3;Boxing;31;Single;Intermediate;<30 years ;Male;;;;filter_3
+233;6149ad96ac0103e25e9bc8c4;Boxing;26;Single;Professional;<30 years ;Male;;;;filter_3
+234;6149ad96ac0103e25e9bc8c5;Boxing;23;Single;Recreational;< 50 years;Male;;;;filter_3
+235;6149ad96ac0103e25e9bc8c6;Boxing;14;Single;Intermediate;< 50 years;Male;;;;filter_3
+236;6149ad96ac0103e25e9bc8c7;Boxing;44;Single;Professional;< 50 years;Male;;;;filter_3
+237;6149ad96ac0103e25e9bc8c8;Boxing;14;Single;Recreational;> 50 years;Male;;;;filter_3
+238;6149ad96ac0103e25e9bc8c9;Boxing;38;Single;Intermediate;> 50 years;Male;;;;filter_3
+239;6149ad96ac0103e25e9bc8ca;Boxing;37;Single;Professional;> 50 years;Male;;;;filter_3
+240;6149ad96ac0103e25e9bc8cb;Swimming;34;Single;Recreational;<15 years;Male;;;;filter_3
+241;6149ad96ac0103e25e9bc8cc;Swimming;19;Single;Intermediate;<15 years;Male;;;;filter_3
+242;6149ad96ac0103e25e9bc8cd;Swimming;31;Single;Professional;<15 years;Male;;;;filter_3
+243;6149ad96ac0103e25e9bc8ce;Swimming;24;Single;Recreational;<30 years ;Male;;;;filter_3
+244;6149ad96ac0103e25e9bc8cf;Swimming;39;Single;Intermediate;<30 years ;Male;;;;filter_3
+245;6149ad96ac0103e25e9bc8d0;Swimming;40;Single;Professional;<30 years ;Male;;;;filter_3
+246;6149ad96ac0103e25e9bc8d1;Swimming;19;Single;Recreational;< 50 years;Male;;;;filter_3
+247;6149ad96ac0103e25e9bc8d2;Swimming;24;Single;Intermediate;< 50 years;Male;;;;filter_3
+248;6149ad96ac0103e25e9bc8d3;Swimming;36;Single;Professional;< 50 years;Male;;;;filter_3
+249;6149ad96ac0103e25e9bc8d4;Swimming;30;Single;Recreational;> 50 years;Male;;;;filter_3
+250;6149ad96ac0103e25e9bc8d5;Swimming;26;Single;Intermediate;> 50 years;Male;;;;filter_3
+251;6149ad96ac0103e25e9bc8d6;Swimming;21;Single;Professional;> 50 years;Male;;;;filter_3
+252;6149ad96ac0103e25e9bc8d7;Athletics;32;Single;Recreational;<15 years;Male;;;;filter_3
+253;6149ad96ac0103e25e9bc8d8;Athletics;24;Single;Intermediate;<15 years;Male;;;;filter_3
+254;6149ad96ac0103e25e9bc8d9;Athletics;20;Single;Professional;<15 years;Male;;;;filter_3
+255;6149ad96ac0103e25e9bc8da;Athletics;20;Single;Recreational;<30 years ;Male;;;;filter_3
+256;6149ad96ac0103e25e9bc8db;Athletics;42;Single;Intermediate;<30 years ;Male;;;;filter_3
+257;6149ad96ac0103e25e9bc8dc;Athletics;13;Single;Professional;<30 years ;Male;;;;filter_3
+258;6149ad96ac0103e25e9bc8dd;Athletics;36;Single;Recreational;< 50 years;Male;;;;filter_3
+259;6149ad96ac0103e25e9bc8de;Athletics;19;Single;Intermediate;< 50 years;Male;;;;filter_3
+260;6149ad96ac0103e25e9bc8df;Athletics;31;Single;Professional;< 50 years;Male;;;;filter_3
+261;6149ad96ac0103e25e9bc8e0;Athletics;14;Single;Recreational;> 50 years;Male;;;;filter_3
+262;6149ad96ac0103e25e9bc8e1;Athletics;42;Single;Intermediate;> 50 years;Male;;;;filter_3
+263;6149ad96ac0103e25e9bc8e2;Athletics;18;Single;Professional;> 50 years;Male;;;;filter_3
+264;6149ad96ac0103e25e9bc8e3;Cycling;41;Single;Recreational;<15 years;Male;;;;filter_3
+265;6149ad96ac0103e25e9bc8e4;Cycling;43;Single;Intermediate;<15 years;Male;;;;filter_3
+266;6149ad96ac0103e25e9bc8e5;Cycling;13;Single;Professional;<15 years;Male;;;;filter_3
+267;6149ad96ac0103e25e9bc8e6;Cycling;27;Single;Recreational;<30 years ;Male;;;;filter_3
+268;6149ad96ac0103e25e9bc8e7;Cycling;28;Single;Intermediate;<30 years ;Male;;;;filter_3
+269;6149ad96ac0103e25e9bc8e8;Cycling;20;Single;Professional;<30 years ;Male;;;;filter_3
+270;6149ad96ac0103e25e9bc8e9;Cycling;39;Single;Recreational;< 50 years;Male;;;;filter_3
+271;6149ad96ac0103e25e9bc8ea;Cycling;14;Single;Intermediate;< 50 years;Male;;;;filter_3
+272;6149ad96ac0103e25e9bc8eb;Cycling;28;Single;Professional;< 50 years;Male;;;;filter_3
+273;6149ad96ac0103e25e9bc8ec;Cycling;11;Single;Recreational;> 50 years;Male;;;;filter_3
+274;6149ad96ac0103e25e9bc8ed;Cycling;25;Single;Intermediate;> 50 years;Male;;;;filter_3
+275;6149ad96ac0103e25e9bc8ee;Cycling;19;Single;Professional;> 50 years;Male;;;;filter_3
+276;6149ad96ac0103e25e9bc8ef;Basketball;19;Team;Recreational;<15 years;Male;;;;filter_3
+277;6149ad96ac0103e25e9bc8f0;Basketball;11;Team;Intermediate;<15 years;Male;;;;filter_3
+278;6149ad96ac0103e25e9bc8f1;Basketball;26;Team;Professional;<15 years;Male;;;;filter_3
+279;6149ad96ac0103e25e9bc8f2;Basketball;33;Team;Recreational;<30 years ;Male;;;;filter_3
+280;6149ad96ac0103e25e9bc8f3;Basketball;37;Team;Intermediate;<30 years ;Male;;;;filter_3
+281;6149ad96ac0103e25e9bc8f4;Basketball;41;Team;Professional;<30 years ;Male;;;;filter_3
+282;6149ad96ac0103e25e9bc8f5;Basketball;10;Team;Recreational;< 50 years;Male;;;;filter_3
+283;6149ad96ac0103e25e9bc8f6;Basketball;20;Team;Intermediate;< 50 years;Male;;;;filter_3
+284;6149ad96ac0103e25e9bc8f7;Basketball;36;Team;Professional;< 50 years;Male;;;;filter_3
+285;6149ad96ac0103e25e9bc8f8;Basketball;10;Team;Recreational;> 50 years;Male;;;;filter_3
+286;6149ad96ac0103e25e9bc8f9;Basketball;37;Team;Intermediate;> 50 years;Male;;;;filter_3
+287;6149ad96ac0103e25e9bc8fa;Basketball;23;Team;Professional;> 50 years;Male;;;;filter_3
+288;6149ad96ac0103e25e9bc8fb;Football;16;Team;Recreational;<15 years;Male;;;;filter_3
+289;6149ad96ac0103e25e9bc8fc;Football;40;Team;Intermediate;<15 years;Male;;;;filter_3
+290;6149ad96ac0103e25e9bc8fd;Football;19;Team;Professional;<15 years;Male;;;;filter_3
+291;6149ad96ac0103e25e9bc8fe;Football;33;Team;Recreational;<30 years ;Male;;;;filter_3
+292;6149ad96ac0103e25e9bc8ff;Football;40;Team;Intermediate;<30 years ;Male;;;;filter_3
+293;6149ad96ac0103e25e9bc900;Football;22;Team;Professional;<30 years ;Male;;;;filter_3
+294;6149ad96ac0103e25e9bc901;Football;37;Team;Recreational;< 50 years;Male;;;;filter_3
+295;6149ad96ac0103e25e9bc902;Football;14;Team;Intermediate;< 50 years;Male;;;;filter_3
+296;6149ad96ac0103e25e9bc903;Football;45;Team;Professional;< 50 years;Male;;;;filter_3
+297;6149ad96ac0103e25e9bc904;Football;24;Team;Recreational;> 50 years;Male;;;;filter_3
+298;6149ad96ac0103e25e9bc905;Football;26;Team;Intermediate;> 50 years;Male;;;;filter_3
+299;6149ad96ac0103e25e9bc906;Football;24;Team;Professional;> 50 years;Male;;;;filter_3
+300;6149ad96ac0103e25e9bc907;Rugby;35;Team;Recreational;<15 years;Male;;;;filter_3
+301;6149ad96ac0103e25e9bc908;Rugby;13;Team;Intermediate;<15 years;Male;;;;filter_3
+302;6149ad96ac0103e25e9bc909;Rugby;40;Team;Professional;<15 years;Male;;;;filter_3
+303;6149ad96ac0103e25e9bc90a;Rugby;17;Team;Recreational;<30 years ;Male;;;;filter_3
+304;6149ad96ac0103e25e9bc90b;Rugby;34;Team;Intermediate;<30 years ;Male;;;;filter_3
+305;6149ad96ac0103e25e9bc90c;Rugby;20;Team;Professional;<30 years ;Male;;;;filter_3
+306;6149ad96ac0103e25e9bc90d;Rugby;40;Team;Recreational;< 50 years;Male;;;;filter_3
+307;6149ad96ac0103e25e9bc90e;Rugby;19;Team;Intermediate;< 50 years;Male;;;;filter_3
+308;6149ad96ac0103e25e9bc90f;Rugby;16;Team;Professional;< 50 years;Male;;;;filter_3
+309;6149ad96ac0103e25e9bc910;Rugby;26;Team;Recreational;> 50 years;Male;;;;filter_3
+310;6149ad96ac0103e25e9bc911;Rugby;14;Team;Intermediate;> 50 years;Male;;;;filter_3
+311;6149ad96ac0103e25e9bc912;Rugby;23;Team;Professional;> 50 years;Male;;;;filter_3
+312;6149ad96ac0103e25e9bc913;Handball;24;Team;Recreational;<15 years;Male;;;;filter_3
+313;6149ad96ac0103e25e9bc914;Handball;37;Team;Intermediate;<15 years;Male;;;;filter_3
+314;6149ad96ac0103e25e9bc915;Handball;37;Team;Professional;<15 years;Male;;;;filter_3
+315;6149ad96ac0103e25e9bc916;Handball;12;Team;Recreational;<30 years ;Male;;;;filter_3
+316;6149ad96ac0103e25e9bc917;Handball;16;Team;Intermediate;<30 years ;Male;;;;filter_3
+317;6149ad96ac0103e25e9bc918;Handball;43;Team;Professional;<30 years ;Male;;;;filter_3
+318;6149ad96ac0103e25e9bc919;Handball;17;Team;Recreational;< 50 years;Male;;;;filter_3
+319;6149ad96ac0103e25e9bc91a;Handball;17;Team;Intermediate;< 50 years;Male;;;;filter_3
+320;6149ad96ac0103e25e9bc91b;Handball;36;Team;Professional;< 50 years;Male;;;;filter_3
+321;6149ad96ac0103e25e9bc91c;Handball;15;Team;Recreational;> 50 years;Male;;;;filter_3
+322;6149ad96ac0103e25e9bc91d;Handball;43;Team;Intermediate;> 50 years;Male;;;;filter_3
+323;6149ad96ac0103e25e9bc91e;Handball;13;Team;Professional;> 50 years;Male;;;;filter_3
