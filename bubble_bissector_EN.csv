@@ -1,4 +1,4 @@
-label,type,Satisfaction,Contribution,Workforce,drillGroup,drillLevel
+label,type,Satisfaction,Contribution,workforce,drillGroup,drillLevel
 Recepetion,Individuals,70,65,600,Recepetion,main
 Politeness,Individuals,65,74,600,Recepetion,sub
 Courtesy,Individuals,74,71,600,Recepetion,sub
