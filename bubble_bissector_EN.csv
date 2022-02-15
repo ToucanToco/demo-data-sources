@@ -7,11 +7,11 @@ Technical interventions,Individuals,85,90,700,Technical interventions,main
 Price,Individuals,77,76,500,Price,main
 Advice,Individuals,88,76,600,Advice,main
 Energy control,Individuals,83,80,700,Energy control,main
-Recepetion,Processionals,73,92,450,Recepetion,main
-Technical interventions,Processionals,88,77,550,Technical interventions,main
-Price,Processionals,78,88,350,Price,main
-Advice,Processionals,88,83,450,Advice,main
-Energy control,Processionals,83,73,550,Energy control,main
-Politeness,Processionals,70,65,600,Recepetion,sub
-Courtesy,Processionals,65,74,600,Recepetion,sub
-Kindness,Processionals,74,71,600,Recepetion,sub
+Recepetion,Professionals,73,92,450,Recepetion,main
+Technical interventions,Professionals,88,77,550,Technical interventions,main
+Price,Professionals,78,88,350,Price,main
+Advice,Professionals,88,83,450,Advice,main
+Energy control,Professionals,83,73,550,Energy control,main
+Politeness,Professionals,70,65,600,Recepetion,sub
+Courtesy,Professionals,65,74,600,Recepetion,sub
+Kindness,Professionals,74,71,600,Recepetion,sub
